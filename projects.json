@@ -49,5 +49,28 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "ionfwsrijan",
+    "repo": "PatchPilot",
+    "projectName": "PatchPilot",
+    "description": "PatchPilot automates code security triage—SAST, dependency vulns, secret scanning—then generates fixes, verification output, and a downloadable compliance evidence pack.",
+    "techStack": [
+      "React",
+      "Vite",
+      "Typescript",
+      "Tailwind CSS",
+      "Python",
+      "FastAPI",
+      "Uvicorn",
+      "Pydantic",
+      "Node.js",
+      "Semgrep",
+      "GitHub API",
+      "GitLeaks",
+      "OSV-Scanner"
+    ],
+    "adminName": "Srijan Jaiswal",
+    "linkedIn": "https://www.linkedin.com/in/srijancodes"
   }
 ]
