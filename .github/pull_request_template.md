@@ -1,44 +1,19 @@
-<!-- PR Title should be just the identifier: eg: praveenscience/SSoC26-Projects -->
-
-## [Project Unique Identifier, eg: `praveenscience/SSoC26-Projects`]
-
-- Full GitHub URL: 
-- Full Name of PA: 
-- Last 4 digits of PA WhatsApp: 
-- Full LinkedIn URL of PA: 
-- Project Mentors (if no one, remove this section):
-  - Mentor 1 Name: 
-  - Mentor 1 LinkedIn: 
-
-Make sure the description is between 120 to 150 characters for uniformity for all the projects.
-
-Make sure the JSON is 2 spaces aligned, if not, PR will not be merged.
-
-Your Project JSON (get it from [the portal](https://portal.socialsummerofcode.com/create-project)) - incase we have to deal with Merge Conflict and stuff:
-
-<!-- below is an example, use yours -->
-
-```json
 {
-  "owner": "praveenscience",
-  "repo": "SSoC26-Projects",
-  "projectName": "SSoC 26 Approved Projects",
-  "description": "The official curated directory of open-source software projects selected for contributors in Social Summer of Code (SSoC) Season 5.0 (2026).",
+  "owner": "daviddprtma",
+  "repo": "SSoC26-AgroDex",
+  "projectName": "AgroDex",
+  "description": "AgroDex fights food fraud in Indonesian by pairing Hedera’s immutable ledger with Gemini 2.5 Flash AI for auditing in real-time food.",
   "techStack": [
-    "JSON",
-    "Markdown"
+    "React",
+    "Vite",
+    "Typescript",
+    "Tailwind CSS",
+    "Nodejs",
+    "Express",
+    "Supabase",
+    "Hedera Hashgraph SDK",
+    "Google Gemini"
   ],
-  "adminName": "Praveen Kumar Purushothaman",
-  "linkedIn": "https://www.linkedin.com/in/praveentech/",
-  "mentors": [
-    {
-      "name": "jay Saadana",
-      "linkedIn": "https://www.linkedin.com/in/jaysaadana/"
-    },
-    {
-      "name": "Suba",
-      "linkedIn": "https://www.linkedin.com/in/suba0/"
-    }
-  ]
+  "adminName": "David Pratama",
+  "linkedIn": "https://linkedin.com/in/daviddprtma"
 }
-```
