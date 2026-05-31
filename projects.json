@@ -49,5 +49,22 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "avishek0769",
+    "repo": "DocChat",
+    "projectName": "DocChat",
+    "description": "This project implements a RAG system designed for documentation. It allows users to convert any documentation website into an interactive chat interface powered by large language models.\nThe system handles crawling, chunking, embedding, indexing, and querying in a structured pipeline.",
+    "techStack": [
+      "React.js",
+      "Express.js",
+      "PostgreSQL",
+      "Redis",
+      "BullMQ",
+      "OpenAI SDK",
+      "Qdrant"
+    ],
+    "adminName": "Avishek Adhikary",
+    "linkedIn": "https://linkedin.com/in/avishekadhikary"
   }
 ]
