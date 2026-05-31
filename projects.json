@@ -65,20 +65,5 @@
   ],
   "adminName": "Avdhesh Kumar Dadhich",
   "linkedIn": "https://www.linkedin.com/in/aavdhesh"
-},
-{
-  "owner": "itzzavdhesh",
-  "repo": "TabTwin",
-  "projectName": "TabTwin",
-  "description": "TabTwin is a real-time browser collaboration tool. The host shares a link — the guest opens it in any browser, no installation needed — and their cursor appears inside the host's actual browser tabs as a ghost. They can highlight, annotate, click, and type. An AI agent can read across tabs and execute tasks autonomously while the host watches live.",
-  "techStack": [
-    "react",
-    "Tailwind CSS",
-    "Vite",
-    "Node.js",
-    "chrome"
-  ],
-  "adminName": "Avdhesh Kumar Dadhich",
-  "linkedIn": "https://www.linkedin.com/in/aavdhesh"
 }
 ]
