@@ -49,5 +49,35 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Abhigyan-Shekhar",
+    "repo": "Waggle-mcp",
+    "projectName": "Waggle",
+    "description": "Waggle MCP gives MCP-compatible AI agents local graph-backed memory for decisions, preferences, contradictions, and project context.",
+    "techStack": [
+      "Python 3.11+",
+      "MCP",
+      "SQLite",
+      "Knowledge Graph",
+      "Neo4j",
+      "Sentence Transformers",
+      "Deterministic Offline Embeddings",
+      "Vector Embeddings",
+      "Ruff",
+      "mypy",
+      "pytest",
+      "GitHub Actions",
+      "Vite",
+      "React",
+      "Graph Studio",
+      "VS Code Extension",
+      "Command Line Interface",
+      "PyPI",
+      "Custom File Format",
+      "Portable Memory Format"
+    ],
+    "adminName": "Abhigyan Shekhar",
+    "linkedIn": "https://www.linkedin.com/in/abhigyan-shekhar-4b3b8b344/"
   }
 ]
