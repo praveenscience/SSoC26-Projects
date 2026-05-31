@@ -54,7 +54,7 @@
     "owner": "Pri-21-coder",
     "repo": "Parampara",
     "projectName": "Parampara",
-    "description": "Parampara is a full-stack web app preserving rural cultural heritage through a community-driven digital repository. Built with Node.js, Express.js, HTML, CSS, JavaScript, and Leaflet.js, it offers interactive maps, audio stories, treasure hunts, and an AI chatbot for rural storytelling.",
+    "description": "Parampara: Full-stack web app preserving rural heritage with maps, audio stories, treasure hunts, and an AI chatbot.",
     "techStack": [
       "HTML5",
       "CSS3",
