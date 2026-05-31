@@ -49,5 +49,24 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "ManabBiswas",
+    "repo": "EkagraFocus",
+    "projectName": "EkagraFocus",
+    "description": "EkagraFocus is a desktop application designed to help students and learners manage their study schedules effectively. Built with privacy and offline functionality in mind, it provides intelligent scheduling recommendations, real-time session tracking, and AI-powered insights without requiring internet connectivity or cloud storage.",
+    "techStack": [
+      "TypeScript",
+      "Electron",
+      "React",
+      "Tailwind CSS",
+      "Zustand",
+      "SQLite",
+      "Ollama",
+      "Webpack",
+      "Electron Forge"
+    ],
+    "adminName": "Manab BIswas",
+    "linkedIn": "https://www.linkedin.com/in/manab-biswas"
   }
 ]
