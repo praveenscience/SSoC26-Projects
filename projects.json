@@ -49,5 +49,21 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "omroy07",
+  "repo": "AI-Money-Mentor",
+  "projectName": "AI-Money-Mentor",
+  "description": "AI-powered platform delivering personalized financial planning, tax optimization, and investment insights in real time",
+  "techStack": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JS",
+    "AI",
+    "ML"
+  ],
+  "adminName": "Om Roy",
+  "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a/"
+}
 ]
