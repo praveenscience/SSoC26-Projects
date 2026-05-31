@@ -1,1 +1,31 @@
-[]
+[
+  {
+  "owner": "umang24-cyber",
+  "repo": "https://github.com/umang24-cyber/SmartCity.git",
+  "projectName": "Civora AI-Powered Smart Urban Safety & Emergency Response Platform",
+  "description": "AI-powered urban safety platform that analyzes incidents, crowd activity, and city data to detect risks and improve emergency response.",
+  "techStack": [
+    "Python",
+    "fastapi",
+    "vite",
+    "tailwindcss",
+    "tensorflow",
+    "keras",
+    "pytorch",
+    "yolov8",
+    "huggingface transformers",
+    "machine learning",
+    "computer vision",
+    "nlp",
+    "tigergraph",
+    "leaflet",
+    "numpy",
+    "scikit-learn",
+    "postgreSQL",
+    "React.js",
+    "JWT authentication"
+  ],
+  "adminName": "Umang Kumar Arora",
+  "linkedIn": "https://linkedin.com/in/umang-arora24"
+ }
+]
