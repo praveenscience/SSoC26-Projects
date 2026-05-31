@@ -1,53 +1,17 @@
-[
-  {
-    "owner": "imanchalsingh",
-    "repo": "collegems",
-    "projectName": "College Management System",
-    "description": "A feature-rich College Management System built using React.js and Express.js.\nThis project is designed for academic use, real-world learning, and full-stack skill enhancement.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  },
-  {
-    "owner": "imanchalsingh",
-    "repo": "File-Sharing-System",
-    "projectName": "File Sharing System",
-    "description": "A File Sharing System built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary integration for handling file URLs. This project is part of my practice and learning, selected from the college project list.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  },
-  {
-    "owner": "imanchalsingh",
-    "repo": "parkfinder",
-    "projectName": "Parking Slot Management System",
-    "description": "SmartPark is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges. It provides real-time parking slot availability, smart booking, and a powerful admin dashboard with a clean and responsive user experience.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
-]
+{
+  "owner": "jai3546",
+  "repo": "AI_ROCKERS",
+  "projectName": "VidyAi++",
+  "description": "Vidyai is an open-source, AI-driven learning platform for school and college students that makes education interactive, accessible, and emotionally adaptive. It features voice-based navigation, a gamified ecosystem with flashcards and quizzes, and an affective learning engine that tracks student focus/stress to suggest custom learning paths or timely breaks. With our MVP ready, our goal for SSOC '26 is to scale this into a fully operational, production-ready platform.",
+  "techStack": [
+    "React.js",
+    "Gemini APi",
+    "HTML",
+    "CSS",
+    "TYPESCRIPT",
+    "NEXT.JS",
+    "FACEAPI.JS"
+  ],
+  "adminName": "Jaideep Tatikonda",
+  "linkedIn": "https://www.linkedin.com/in/jaideep-tatikonda"
+}
