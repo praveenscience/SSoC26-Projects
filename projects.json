@@ -17,6 +17,22 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
+    "owner": "niharika-mente",
+    "repo": "DevEvent_Tracker",
+    "projectName": "DevEvent_Tracker",
+    "description": "Dev Event Tracker is a dedicated web platform designed for developers to discover, organize, and manage tech-related events.",
+    "techStack": [
+      "Next.js",
+      "React",
+      "Tailwind css",
+      "Typescript",
+      "MongoDB",
+      "mONGOOSE"
+    ],
+    "adminName": "Niharika Mente",
+    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
