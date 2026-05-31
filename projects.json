@@ -65,22 +65,5 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  },
-  {
-    "owner": "niharika-mente",
-    "repo": "Product-Store",
-    "projectName": "Product-Store",
-    "description": "Product Store is a full-stack e-commerce web application designed to manage and display consumer products through a sleek, responsive interface.",
-    "techStack": [
-      "React.js",
-      "Vite",
-      "Chakra UI",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Mongoose"
-    ],
-    "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323"
   }
 ]
