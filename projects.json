@@ -1,1 +1,31 @@
-[]
+[{
+  "owner": "vmDeshpande",
+  "repo": "ai-agent-automation",
+  "projectName": "AI Agent Automation Platform",
+  "description": "Local-first AI workflow automation platform with visual builders, memory, RAG, branching, tools, and multi-provider LLM execution.",
+  "techStack": [
+    "Node.js",
+    "Express.js",
+    "Next.js",
+    "React",
+    "MongoDB",
+    "TypeScript",
+    "JavaScript",
+    "Puppeteer",
+    "Ollama",
+    "Docker",
+    "Cron Jobs",
+    "REST API",
+    "RAG",
+    "AI Workflow Orchestration",
+    "Vector Embeddings"
+  ],
+  "adminName": "Vedant Milind Deshpande",
+  "linkedIn": "https://linkedin.com/in/vedant-devv",
+  "mentors": [
+    {
+      "name": "Advait Kulkarni",
+      "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
+    }
+  ]
+}]
