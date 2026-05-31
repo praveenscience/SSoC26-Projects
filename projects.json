@@ -55,7 +55,14 @@
     "repo": "ss.ai",
     "projectName": "ss.ai",
     "description": "AI-powered screenshot analysis and knowledge extraction platform that processes screenshots from multiple sources using OCR, Vision AI, metadata enrichment, tagging, and parallel worker pipelines.",
-    "techStack": ["Typescript", "Nextjs", "React Native", "AI", "OCR", "API"],
+    "techStack": [
+      "Typescript",
+      "Nextjs",
+      "React Native",
+      "AI",
+      "OCR",
+      "API"
+    ],
     "adminName": "Madhav Majumdar",
     "linkedIn": "https://www.linkedin.com/in/madhav-majumdar9099"
   }
