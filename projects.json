@@ -50,4 +50,57 @@
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   }
+  {
+  "owner": "Puneet04-tech",
+  "repo": "1-1-mentor-session-booking-app",
+  "projectName": "1-1-mentor-session-booking-app",
+  "description": "A real-time web application for mentors and students to collaborate with video calls, collaborative code editing with CRDT, and instant messaging.",
+  "techStack": [
+    "Next.js 14",
+    "TypeScript",
+    "React 18",
+    "Tailwind CSS",
+    "Monaco Editor",
+    "Yjs",
+    "y-monaco",
+    "CRDT",
+    "y-websocket",
+    "shadcn/ui",
+    "Socket.io",
+    "WebRTC",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "Neon Database",
+    "Supabase Auth",
+    "Full Stack Development",
+    "Collaborative IDE",
+    "Real-Time Sync"
+  ],
+  "adminName": "Puneet Chaturvedi",
+  "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327"
+  }
+  {
+  "owner": "Puneet04-tech",
+  "repo": "nexus-protocol-vision",
+  "projectName": "Nexus Protocol Vision",
+  "description": "Nexus Protocol Vision is the interactive UI and demo ecosystem for the Nexus Protocol, an advanced, decentralized, agentic operating layer. It manifests a local-first 'Sovereign Persona'—a secure digital twin mapping user knowledge and ethical boundaries on-device. The platform serves as a visual gateway for managing privacy negotiations, cognitive knowledge maps, and federated learning.",
+  "techStack": [
+    "React 18.2",
+    "TypeScript",
+    "Vite",
+    "Framer Motion",
+    "Lucide Icons",
+    "Google Gemini API",
+    "HTML5 Canvas",
+    "Tailwind CSS",
+    "Decentralized AI",
+    "Multi-Agent Systems",
+    "Local-First",
+    "Privacy Preservation",
+    "Federated Learning"
+  ],
+  "adminName": "Puneet Chaturvedi",
+  "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327"
+  }
 ]
