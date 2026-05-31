@@ -17,25 +17,19 @@ Your Project JSON (get it from [the portal](https://portal.socialsummerofcode.co
 
 ```json
 {
-  "owner": "praveenscience",
-  "repo": "SSoC26-Projects",
-  "projectName": "SSoC 26 Approved Projects",
-  "description": "The official curated directory of open-source software projects selected for contributors in Social Summer of Code (SSoC) Season 5.0 (2026).",
+  "owner": "darshan2456",
+  "repo": "C_DSA_interactive_suite",
+  "projectName": "C_DSA_interactive_suite",
+  "description": "An interactive terminal-based DSA library written in pure C for learners who want to understand data structures at the memory level, built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety. Implements Dijkstra's algorithm, iterative BFS and DFS, merge sort, quicksort, binary search tree, and hashing with separate chaining and linear probing among many more",
   "techStack": [
-    "JSON",
-    "Markdown"
+    "C",
+    "Make",
+    "GDB",
+    "Valgrind",
+    "Linux"
   ],
-  "adminName": "Praveen Kumar Purushothaman",
-  "linkedIn": "https://www.linkedin.com/in/praveentech/",
-  "mentors": [
-    {
-      "name": "jay Saadana",
-      "linkedIn": "https://www.linkedin.com/in/jaysaadana/"
-    },
-    {
-      "name": "Suba",
-      "linkedIn": "https://www.linkedin.com/in/suba0/"
-    }
-  ]
+  "adminName": "Darshan Mukul Parekh",
+  "linkedIn": "https://www.linkedin.com/in/darshan-parekh-777699351",
+ 
 }
 ```
