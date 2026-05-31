@@ -50,4 +50,22 @@
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   }
+  {
+    "owner": "Pri-21-coder",
+    "repo": "Parampara",
+    "projectName": "Parampara",
+    "description": "Parampara is a full-stack web app preserving rural cultural heritage through a community-driven digital repository. Built with Node.js, Express.js, HTML, CSS, JavaScript, and Leaflet.js, it offers interactive maps, audio stories, treasure hunts, and an AI chatbot for rural storytelling.",
+    "techStack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "MongoDB",
+      "Cloudinary",
+      "Node.js",
+      "Express.js",
+      "Leaflet.js"
+    ],
+    "adminName": "Pritha Pal",
+    "linkedIn": "https://www.linkedin.com/in/pritha-pal21"
+  }
 ]
