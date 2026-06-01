@@ -65,18 +65,18 @@
     "adminName": "Madhav Majumdar",
     "linkedIn": "https://www.linkedin.com/in/madhav-majumdar9099",
     "mentors": [
-    {
-      "name": "Advait Kulkarni",
-      "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
-    },
-    {
-      "name": "Nirakar Patel",
-      "linkedIn": "https://www.linkedin.com/in/nirakarpatel/"
-    },
-    {
-      "name": "",
-      "linkedIn": ""
-    }
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+      },
+      {
+        "name": "Nirakar Patel",
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel/"
+      },
+      {
+        "name": "",
+        "linkedIn": ""
+      }
   ]
   }
 ]
