@@ -57,7 +57,6 @@
     "description": "Product Store is a full-stack e-commerce web application designed to manage and display consumer products through a sleek, responsive interface.",
     "techStack": [
       "React.js",
-      "Vite",
       "Node.js",
       "Express.js",
       "MongoDB"
