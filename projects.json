@@ -81,4 +81,26 @@
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   }
+  ,
+  {
+    "owner": "1809gaurav",
+    "repo": "mind-mitra",
+    "projectName": "MindMitra",
+    "description": "MindMitra is an open-source mental health support platform that provides AI-powered mood tracking, emotion analysis, journaling, and SOS emergency alerts built with a Python/FastAPI backend, React frontend, Firebase authentication, and Redis caching.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "Redis",
+      "React",
+      "Node.js",
+      "Firebase",
+      "Docker",
+      "Pytest",
+      "Twilio",
+      "SMTP"
+    ],
+    "adminName": "Gaurav Kaushik",
+    "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809"
+  }
 ]
