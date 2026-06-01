@@ -51,37 +51,27 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
-  "owner": "itzzavdhesh",
-  "repo": "VoiceForge",
-  "projectName": "VoiceForge",
-  "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
-  "techStack": [
-    "react",
-    "Tailwind CSS",
-    "Vite",
-    "Node.js"
-  ],
-  "adminName": "Avdhesh Kumar Dadhich",
-  "linkedIn": "https://www.linkedin.com/in/aavdhesh"
-},
-{
-  "owner": "itzzavdhesh",
-  "repo": "TabTwin",
-  "projectName": "TabTwin",
-  "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
-  "techStack": [
-    "react",
-    "Tailwind CSS",
-    "Vite",
-    "Node.js"
-  ],
-  "adminName": "Avdhesh Kumar Dadhich",
-  "linkedIn": "https://www.linkedin.com/in/aavdhesh",
-  "mentors": [
-    {
-      "name": "Rishabh Kumar",
-      "linkedIn": "https://www.linkedin.com/in/rrishabk/"
-    }
-  ]  
-}
+    "owner": "itzzavdhesh",
+    "repo": "TabTwin",
+    "projectName": "TabTwin",
+    "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
+    "techStack": [
+      "react",
+      "Tailwind CSS",
+      "Vite",
+      "Node.js"
+    ],
+    "adminName": "Avdhesh Kumar Dadhich",
+    "linkedIn": "https://www.linkedin.com/in/aavdhesh",
+    "mentors": [
+      {
+        "name": "Rishabh Kumar",
+        "linkedIn": "https://www.linkedin.com/in/rrishabk/"
+      },
+      {
+        "name": "Joyprakash Kalita",
+        "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+      }
+    ]  
+  }
 ]
