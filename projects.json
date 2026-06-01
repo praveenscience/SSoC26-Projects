@@ -54,21 +54,12 @@
     "owner": "ionfwsrijan",
     "repo": "PatchPilot",
     "projectName": "PatchPilot",
-    "description": "PatchPilot automates code security triage—SAST, dependency vulns, secret scanning—then generates fixes, verification output, and a downloadable compliance evidence pack.",
+    "description": "Automated code security triage — SAST, dependency & secret scanning, auto-fixes, verification, and compliance evidence pack.",
     "techStack": [
-      "React",
-      "Vite",
-      "Typescript",
-      "Tailwind CSS",
       "Python",
-      "FastAPI",
-      "Uvicorn",
-      "Pydantic",
-      "Node.js",
-      "Semgrep",
-      "GitHub API",
-      "GitLeaks",
-      "OSV-Scanner"
+      "React",
+      "Typescript",
+      "Tailwind CSS"
     ],
     "adminName": "Srijan Jaiswal",
     "linkedIn": "https://www.linkedin.com/in/srijancodes"
