@@ -90,15 +90,9 @@
     "techStack": [
       "Python",
       "FastAPI",
-      "MongoDB",
-      "Redis",
       "React",
-      "Node.js",
-      "Firebase",
-      "Docker",
-      "Pytest",
-      "Twilio",
-      "SMTP"
+      "MongoDB",
+      "Firebase"
     ],
     "adminName": "Gaurav Kaushik",
     "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809"
