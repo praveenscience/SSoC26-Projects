@@ -80,5 +80,18 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "Durgeshwar-AI",
+  "repo": "pdfToPng",
+  "projectName": "pdfToPng",
+  "description": "A multi-functional file processing tool offering features like PDF to PNG, image to WBEP or JPG and many more without storing a single bit of data.",
+  "techStack": [
+    "python",
+    "flask",
+    "react"
+  ],
+  "adminName": "Durgeshwar Kumar Shaw",
+  "linkedIn": "https://www.linkedin.com/in/durgeshwar/"
+}
 ]
