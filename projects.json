@@ -80,5 +80,20 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Sitaram8472",
+    "repo": "School_Website",
+    "projectName": "School_Website",
+    "description": "EduStream is a school portal with real-time notices, resource sharing, and an AI assistant that connects students, teachers, and parents.",
+    "techStack": [
+      "React",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "Machine Learning"
+    ],
+    "adminName": "Sitaram Sahu",
+    "linkedIn": "https://www.linkedin.com/in/sitaram-sahu/"
   }
 ]
