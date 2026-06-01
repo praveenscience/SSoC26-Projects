@@ -54,7 +54,7 @@
     "owner": "avishek0769",
     "repo": "DocChat",
     "projectName": "DocChat",
-    "description": "This project implements a RAG system designed for documentation. It allows users to convert any documentation website into an interactive chat interface powered by large language models.\nThe system handles crawling, chunking, embedding, indexing, and querying in a structured pipeline.",
+    "description": "Turn any documentation into an AI chat experience with source-backed answers using vector or vector-less retrieval.",
     "techStack": [
       "React.js",
       "Express.js",
