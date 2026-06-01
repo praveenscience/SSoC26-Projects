@@ -54,11 +54,9 @@
   "owner": "itzzavdhesh",
   "repo": "VoiceForge",
   "projectName": "VoiceForge",
-  "description": "VoiceForge is an open-source browser-based assistive communication platform that enables deaf and speech-impaired users to participate naturally in video calls through AI-powered voice cloning, text-to-speech generation, and lip-synced facial video output using a local-first architecture.",
+  "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
   "techStack": [
     "react",
-    "ONNX Runtime",
-    "ElevenLabs",
     "Tailwind CSS",
     "Vite",
     "Node.js"
@@ -70,13 +68,12 @@
   "owner": "itzzavdhesh",
   "repo": "TabTwin",
   "projectName": "TabTwin",
-  "description": "TabTwin is a real-time browser collaboration tool. The host shares a link — the guest opens it in any browser, no installation needed — and their cursor appears inside the host's actual browser tabs as a ghost. They can highlight, annotate, click, and type. An AI agent can read across tabs and execute tasks autonomously while the host watches live.",
+  "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
   "techStack": [
     "react",
     "Tailwind CSS",
     "Vite",
-    "Node.js",
-    "chrome"
+    "Node.js"
   ],
   "adminName": "Avdhesh Kumar Dadhich",
   "linkedIn": "https://www.linkedin.com/in/aavdhesh"
