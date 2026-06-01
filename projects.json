@@ -31,6 +31,21 @@
     ]
   },
   {
+    "owner": "Rishabhworkspace",
+    "repo": "AlgoForge",
+    "projectName": "AlgoForge",
+    "description": "Full-stack DSA learning platform with XP, streaks, leaderboards, and structured roadmaps built to make algorithmic progress feel real.",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Next.js",
+      "Typescript",
+      "MongoDb"
+    ],
+    "adminName": "Rishabh Tripathi",
+    "linkedIn": "https://www.linkedin.com/in/rishabh-tripathi-728a77317/"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
