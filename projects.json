@@ -54,16 +54,13 @@
     "owner": "Sitaram8472",
     "repo": "School_Website",
     "projectName": "School_Website",
-    "description": "EduStream is a modern school portal that brings students, teachers, and parents together. It features a real-time notice board, easy resource sharing, and a helpful AI assistant for student questions. Designed for simplicity, EduStream helps our entire school community stay connected, organized, and supported every single day.",
+    "description": "EduStream is a school portal with real-time notices, resource sharing, and an AI assistant that connects students, teachers, and parents.",
     "techStack": [
       "React",
-      "Tailwind CSS",
       "MongoDB",
-      "Mongoose",
       "Node.js",
       "Express.js",
-      "Machine Learning",
-      "AI"
+      "Machine Learning"
     ],
     "adminName": "Sitaram Sahu",
     "linkedIn": "https://www.linkedin.com/in/sitaram-sahu/"
