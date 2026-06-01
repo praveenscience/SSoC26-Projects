@@ -80,5 +80,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Abhigyan-Shekhar",
+    "repo": "Waggle-mcp",
+    "projectName": "Waggle",
+    "description": "Waggle MCP gives MCP-compatible AI agents local graph-backed memory for decisions, preferences, contradictions, and project context.",
+    "techStack": [
+      "Python 3.11+",
+      "MCP",
+      "SQLite",
+      "Neo4j"
+    ],
+    "adminName": "Abhigyan Shekhar",
+    "linkedIn": "https://www.linkedin.com/in/abhigyan-shekhar-4b3b8b344/"
   }
 ]
