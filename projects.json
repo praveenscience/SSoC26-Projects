@@ -80,5 +80,30 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "roshankumar0036singh",
+    "repo": "auth-server",
+    "projectName": "Auth Server",
+    "description": "Production-ready Go authentication microservice with OAuth 2.0, MFA, RBAC, JWT rotation, Redis caching, and PostgreSQL support.",
+    "techStack": [
+      "Go",
+      "Gin",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "adminName": "Roshan Singh",
+    "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/",
+    "mentors": [
+      {
+        "name": "Rehan Shaikh",
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
+      },
+      {
+        "name": "Joyprakash Kalita",
+        "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+      }
+    ]
   }
 ]
