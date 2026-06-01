@@ -60,9 +60,19 @@
       "Gin",
       "PostgreSQL",
       "Redis",
-      "Docker",
+      "Docker"
     ],
     "adminName": "Roshan Singh",
-    "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/"
+    "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/",
+    "mentors": [
+      {
+        "name": "Rehan Shaikh",
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
+      },
+      {
+        "name": "Joyprakash Kalita",
+        "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+      }
+    ]
   }
 ]
