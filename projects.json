@@ -80,5 +80,22 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "Sainava",
+  "repo": "ML-Algo-Visualizer",
+  "projectName": "AlgoScope ML",
+  "description": "Interactive React/SVG machine learning visualizer built for open-source mentoring with a beginner-friendly, plug-and-play architecture.",
+  "techStack": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Vite",
+    "Native SVG",
+    "GitHub Actions"
+  ],
+  "adminName": "Sainava Modak",
+  "linkedIn": "https://www.linkedin.com/in/sainava-modak-212942282/"
+}
 ]
+
