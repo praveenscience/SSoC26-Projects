@@ -114,6 +114,20 @@
     "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
   },
   {
+    "owner": "imDarshanGK",
+    "repo": "localmind",
+    "projectName": "LocalMind — Offline AI Assistant",
+    "description": "Privacy-first offline AI assistant that lets users chat with documents locally using Ollama, FastAPI and LangChain without cloud services.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "Ollama"
+    ],
+    "adminName": "Darshan G K",
+    "linkedIn": "https://linkedin.com/in/imdarshangk"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
