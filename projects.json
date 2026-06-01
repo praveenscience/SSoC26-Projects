@@ -2,16 +2,28 @@
   "owner": "jai3546",
   "repo": "AI_ROCKERS",
   "projectName": "VidyAi++",
-  "description": "Vidyai is an open-source, AI-driven learning platform for school and college students that makes education interactive, accessible, and emotionally adaptive. It features voice-based navigation, a gamified ecosystem with flashcards and quizzes, and an affective learning engine that tracks student focus/stress to suggest custom learning paths or timely breaks. With our MVP ready, our goal for SSOC '26 is to scale this into a fully operational, production-ready platform.",
+  "description": "Vidyai is an open-source, AI-driven educational platform that tracks student focus and stress to deliver adaptive, gamified learning.",
   "techStack": [
-    "React.js",
-    "Gemini APi",
-    "HTML",
-    "CSS",
-    "TYPESCRIPT",
-    "NEXT.JS",
-    "FACEAPI.JS"
+    "Next.js",
+    "Gemini API",
+    "Typescript.js",
+    "Tailwind.css",
+    "FaceAPI.js"
   ],
-  "adminName": "Jaideep Tatikonda",
-  "linkedIn": "https://www.linkedin.com/in/jaideep-tatikonda"
+  "adminName": "TATIKONDA JAIDEEP",
+  "linkedIn": "https://www.linkedin.com/in/jaideep-tatikonda",
+  "mentors": [
+    {
+      "name": "Saurav Kumar",
+      "linkedIn": "https://www.linkedin.com/in/saurav02022/"
+    },
+    {
+      "name": "Mohit Aggarwal",
+      "linkedIn": "https://www.linkedin.com/in/mohitaggarwal551/"
+    },
+    {
+      "name": "Aditya Singh",
+      "linkedIn": "https://linkedin.com/in/adityas72"
+    }
+  ]
 }
