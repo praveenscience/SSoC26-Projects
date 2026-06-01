@@ -80,5 +80,23 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "AnthropicBots",
+    "repo": "ptet-web",
+    "projectName": "ptet-web",
+    "description": "Open-source PTET education platform offering resources, notices, forms, updates, and a responsive experience for students.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "React",
+      "Node.js",
+      "Express.js",
+      "REST API"
+    ],
+    "adminName": "Mohit Yadav",
+    "linkedIn": "https://www.linkedin.com/in/mohit-yadav-6b2319305/"
   }
 ]
