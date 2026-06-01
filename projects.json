@@ -129,5 +129,35 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "jpdevhub",
+    "repo": "FreshScanAi",
+    "projectName": "FreshScanAi",
+    "description": "Real-time fish freshness assessment using Edge AI — ensure consumer safety, vendor transparency, and minimize food waste.",
+    "techStack": [
+      "TypeScript",
+      "Python 3.12",
+      "PyTorch",
+      "Supabase",
+      "Hugging Face Spaces"
+    ],
+    "adminName": "Karan Singh",
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
+  },
+  {
+    "owner": "jpdevhub",
+    "repo": "Agronavis-AI-Farm-Assistant",
+    "projectName": "Agronavis-AI-Farm-Assistant",
+    "description": "AgroNavis is an AI-powered farm intelligence platform that helps farmers detect crop diseases early, reduce input costs, and maximize yield using personalized, data-driven decisions.",
+    "techStack": [
+      "Next.js 14",
+      "TypeScript",
+      "Express.js",
+      "Supabase",
+      "PyTorch"
+    ],
+    "adminName": "Karan Singh",
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
   }
 ]
