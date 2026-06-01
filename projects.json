@@ -62,6 +62,16 @@
     "Node.js"
   ],
   "adminName": "Avdhesh Kumar Dadhich",
-  "linkedIn": "https://www.linkedin.com/in/aavdhesh"
+  "linkedIn": "https://www.linkedin.com/in/aavdhesh",
+  "mentors": [
+    {
+      "name": "Rushikesh kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
+    },
+    {
+      "name": "Joyprakash Kalita",
+      "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+    }
+  ]  
 }
 ]
