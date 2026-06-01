@@ -55,7 +55,7 @@
   "owner": "darshan2456",
   "repo": "C_DSA_interactive_suite",
   "projectName": "C DSA Interactive Suite",
-  "description": "An interactive terminal-based DSA library written in pure C for learners who want to understand data structures at the memory level, built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety. Implements Dijkstra's algorithm, iterative BFS and DFS, merge sort, quicksort, binary search tree, and hashing with separate chaining and linear probing.",
+  "description": "A pure C DSA library for learners built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety.",
   "techStack": [
     "C",
     "Makefile",
