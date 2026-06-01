@@ -14,7 +14,17 @@
       "Express.js"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/",
+    "mentors": [
+      {
+        "name": "Sindhuja",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+      }
+    ]
   },
   {
     "owner": "imanchalsingh",
@@ -31,7 +41,17 @@
       "Express.js"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/",
+    "mentors": [
+      {
+        "name": "Sindhuja",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+      }
+    ]
   },
   {
     "owner": "imanchalsingh",
@@ -48,6 +68,16 @@
       "Express.js"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/",
+    "mentors": [
+      {
+        "name": "Sindhuja",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+      }
+    ]
   }
 ]
