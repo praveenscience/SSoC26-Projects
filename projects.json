@@ -54,11 +54,9 @@
   "owner": "itzzavdhesh",
   "repo": "VoiceForge",
   "projectName": "VoiceForge",
-  "description": "VoiceForge is an open-source browser-based assistive communication platform that enables deaf and speech-impaired users to participate naturally in video calls through AI-powered voice cloning, text-to-speech generation, and lip-synced facial video output using a local-first architecture.",
+  "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
   "techStack": [
     "react",
-    "ONNX Runtime",
-    "ElevenLabs",
     "Tailwind CSS",
     "Vite",
     "Node.js"
