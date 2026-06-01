@@ -129,5 +129,23 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "TENET-DEV-AI",
+    "repo": "TENET-AI",
+    "projectName": "TENET AI",
+    "description": "An AI-driven cybersecurity system that detects and defends against modern threats using coordinated microservices. It ingests events, analyzes risks with ML models, blocks malicious actions in real time, and continuously adapts to evolving attack patterns through automated feedback and orchestration.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "Redis",
+      "React",
+      "Typescript",
+      "Vite",
+      "Docker",
+      "Kubernetes"
+    ],
+    "adminName": "Savio D'souza",
+    "linkedin": "https://www.linkedin.com/in/savio-d-souza-0a1810349/"
   }
 ]
