@@ -129,5 +129,20 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Rishabhworkspace",
+    "repo": "Traceon",
+    "projectName": "Traceon",
+    "description": "AI-powered platform that maps codebases into interactive dependency graphs and analyzes developer capabilities through LLM insights",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Next.js",
+      "Typescript",
+      "MongoDb"
+    ],
+    "adminName": "Rishabh Tripathi",
+    "linkedIn": "https://www.linkedin.com/in/rishabh-tripathi-728a77317/"
   }
 ]
