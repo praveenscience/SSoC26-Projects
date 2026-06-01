@@ -51,12 +51,28 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
-    "owner": "niharika-mente",
-    "repo": "ThinkBoard",
-    "projectName": "ThinkBoard",
-    "description": "ThinkBoard is a full-stack notes and idea management platform that helps users create, organize, and track information efficiently.",
-    "techStack": ["JavaScript", "Tailwind CSS", "HTML", "Node.js", "MongoDB"],
-    "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323"
+      "owner": "niharika-mente",
+      "repo": "ThinkBoard",
+      "projectName": "ThinkBoard",
+      "description": "ThinkBoard is a full-stack notes and idea management platform that helps users create, organize, and track information efficiently.",
+      "techStack": [
+        "JavaScript", 
+        "Tailwind CSS", 
+        "HTML",
+        "Node.js",
+        "MongoDB"
+        ],
+      "adminName": "Niharika Mente",
+      "linkedIn": "https://linkedin.com/in/niharika-mente-473434323",
+      "mentors": [
+      {
+        "name": "Nirakar Patel",
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
+      },
+      {
+        "name": "Roopa S",
+        "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291/"
+      }
+    ]
   }
 ]
