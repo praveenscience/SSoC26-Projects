@@ -61,6 +61,12 @@
       "JavaScript"
     ],
     "adminName": "Shubham Chaudhari",
-    "linkedIn": "https://www.linkedin.com/in/shubhampchaudhari/"
+    "linkedIn": "https://www.linkedin.com/in/shubhampchaudhari/",
+    "mentors": [
+      {
+        "name": "Iswar Patra",
+        "linkedIn": "https://www.linkedin.com/in/iswar-patra-95650a336"
+      }
+    ]
   }
 ]
