@@ -80,5 +80,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "AnthropicBots",
+    "repo": "E-commerce",
+    "projectName": "E-commerce",
+    "description": "Open-source e-commerce platform with product management, cart, authentication, orders, admin controls, and responsive UI.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "Node.js",
+      "JavaScript"
+    ],
+    "adminName": "Bhuvansh Kataria",
+    "linkedIn": "https://www.linkedin.com/in/bhuvansh-kataria-041572322/"
   }
 ]
