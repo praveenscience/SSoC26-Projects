@@ -31,6 +31,33 @@
     ]
   },
   {
+  "owner": "rishima17",
+  "repo": "LecturePulse",
+  "projectName": "LecturePulse",
+  "description": "LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback during lectures.",
+  "techStack": [
+    "React",
+    "Vite",
+    "Tailwind Css 4",
+    "recharts",
+    "framer motion",
+    "javascript"
+  ],
+  "adminName": "Rishima",
+  "linkedIn": "https://www.linkedin.com/in/rishima17/",
+  "mentors": [
+    {
+      "name": "Satyam Pandey",
+      "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+    },
+    {
+      "name": "Kothakapu Vishnu Kiran",
+      "linkedIn": "https://linkedin.com/in/kothakapuvishnukiran"
+    }
+  ]
+
+},
+  {
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
