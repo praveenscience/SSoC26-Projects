@@ -76,6 +76,12 @@
     "Node.js"
   ],
   "adminName": "Avdhesh Kumar Dadhich",
-  "linkedIn": "https://www.linkedin.com/in/aavdhesh"
+  "linkedIn": "https://www.linkedin.com/in/aavdhesh",
+  "mentors": [
+    {
+      "name": "Rishabh Kumar",
+      "linkedIn": "https://www.linkedin.com/in/rrishabk/"
+    }
+  ]  
 }
 ]
