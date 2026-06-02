@@ -3,7 +3,7 @@
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
-    "description": "This project is designed for academic use, real-world learning, and full-stack skill enhancement.",
+    "description": "This project is designed for academic use, real-world learning, practical implementation, and full-stack skill enhancement through hands-on development.",
     "techStack": [
       "React",
       "Tailwind CSS",
@@ -51,7 +51,7 @@
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
-    "description": "SmartPark is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges.",
+    "description": "SmartPark(Parking Slot Finder) is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges.",
     "techStack": [
       "React",
       "Tailwind CSS",
