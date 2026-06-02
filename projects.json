@@ -129,5 +129,33 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "itzzavdhesh",
+    "repo": "TabTwin",
+    "projectName": "TabTwin",
+    "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
+    "techStack": [
+      "react",
+      "Tailwind CSS",
+      "Vite",
+      "Node.js"
+    ],
+    "adminName": "Avdhesh Kumar Dadhich",
+    "linkedIn": "https://www.linkedin.com/in/aavdhesh",
+    "mentors": [
+      {
+        "name": "Rishabh Kumar",
+        "linkedIn": "https://www.linkedin.com/in/rrishabk/"
+      },
+      {
+        "name": "Joyprakash Kalita",
+        "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+      },
+      {
+        "name": "Preetham Shetty",
+        "linkedIn": "https://www.linkedin.com/in/preetham404/"
+      }
+    ]  
   }
 ]
