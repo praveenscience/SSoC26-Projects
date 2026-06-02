@@ -82,6 +82,25 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
+  "owner": "Anushka-045",
+  "repo": "deshsafe",
+  "projectName": "DeshSafe",
+  "description": "Citizen-powered disaster reporting platform for India enabling real-time crisis reporting, mapping, alerts, and emergency response.",
+  "techStack": [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Leaflet.js",
+    "Google Maps API",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Firebase Auth"
+  ],
+  "adminName": "Anushka Pandey",
+  "linkedIn": "https://www.linkedin.com/in/anushka-pandey-b8b16b329/"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
