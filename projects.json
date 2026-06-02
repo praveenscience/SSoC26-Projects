@@ -50,7 +50,13 @@
     "repo": "auth-server",
     "projectName": "Auth Server",
     "description": "Production-ready Go authentication microservice with OAuth 2.0, MFA, RBAC, JWT rotation, Redis caching, and PostgreSQL support.",
-    "techStack": ["Go", "Gin", "PostgreSQL", "Redis", "Docker"],
+    "techStack": [
+      "Go",
+      "Gin",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
     "adminName": "Roshan Singh",
     "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/",
     "mentors": [
@@ -134,14 +140,11 @@
     "owner": "TENET-DEV-AI",
     "repo": "TENET-AI",
     "projectName": "TENET AI",
-    "description": "An AI-driven cybersecurity system that detects and defends against modern threats using coordinated microservices. It ingests events, analyzes risks with ML models, blocks malicious actions in real time, and continuously adapts to evolving attack patterns through automated feedback and orchestration.",
+    "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices.",
     "techStack": [
       "Python",
       "FastAPI",
-      "Redis",
       "React",
-      "Typescript",
-      "Vite",
       "Docker",
       "Kubernetes"
     ],
