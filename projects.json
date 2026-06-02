@@ -54,7 +54,7 @@
     "owner": "Pri-21-coder",
     "repo": "Parampara",
     "projectName": "Parampara",
-    "description": "Parampara: Full-stack web app preserving rural heritage with maps, audio stories, treasure hunts, and an AI chatbot.",
+    "description": "Parampara is a full-stack web app preserving rural heritage through interactive maps, captivating audio stories, treasure hunts, and an AI chatbot.",
     "techStack": [
       "JavaScript",
       "MongoDB",
