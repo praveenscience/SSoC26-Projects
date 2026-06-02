@@ -55,7 +55,7 @@
   "owner": "prabhakarshukla",
   "repo": "EduFlow_AI",
   "projectName": "EduFlow AI",
-  "description": "EduFlow AI is an AI-powered student assistant platform designed to help students manage their academic life in a smarter, more organized, and productive way. It combines multiple student-focused tools into a single platform, including an AI doubt solver, study planner, AI notes generator, productivity tracker, mood tracker, reminders, streak system, PDF export functionality, and shareable notes.The project aims to reduce the stress of managing studies by providing students with tools that improve planning, consistency, and learning efficiency. Instead of using multiple applications for different academic needs, students can access everything from one centralized platform. EduFlow AI focuses on creating a seamless and user-friendly experience that supports students throughout their learning journey.Built with modern web technologies and AI integration, the project also encourages open-source collaboration. Contributors are welcome to help improve existing features, fix issues, introduce new ideas, and enhance the overall experience for students using the platform.",
+  "description": "EduFlow AI is an AI-powered student assistant that combines study planning, notes, productivity tracking, and learning support in one platform.",
   "techStack": [
       "React",
       "Typescript",
