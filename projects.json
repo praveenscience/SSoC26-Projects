@@ -86,7 +86,7 @@
     "owner": "1809gaurav",
     "repo": "mind-mitra",
     "projectName": "MindMitra",
-    "description": "MindMitra is an open-source mental health support platform that provides AI-powered mood tracking, emotion analysis, journaling, and SOS emergency alerts built with a Python/FastAPI backend, React frontend, Firebase authentication, and Redis caching.",
+    "description": "Mental health platform with AI mood tracking, emotion analysis, journaling, SOS alerts built with FastAPI and React.",
     "techStack": [
       "Python",
       "FastAPI",
