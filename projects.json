@@ -129,5 +129,29 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "Userunknown84",
+  "repo": "Spam-Detection-System",
+  "projectName": "Spam Detection System",
+  "description": "Spam Detection System is a full-stack ML application that detects spam, smishing, and offensive messages on web and mobile.",
+  "techStack": [
+    "Python",
+    "Reactjs",
+    "NodeJs",
+    "ReactNative"
+  ],
+  "adminName": "Aditya Sharma",
+  "linkedIn": "https://www.linkedin.com/in/aditya-sharma-340253236/",
+  "mentors": [
+    {
+      "name": "Rushikesh Kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma/"
+    },
+    {
+      "name": "SHASHANKA SHEKHAR NAYAK",
+      "linkedIn": "https://www.linkedin.com/in/shashanka-shekhar-nayak-543a7a258/"
+    }
+  ]
+}
 ]
