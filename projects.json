@@ -54,7 +54,7 @@
     "owner": "thetechguardians",
     "repo": "Climate-Shield",
     "projectName": "Climate Shield",
-    "description": "Climate Shield is an AI-powered climate intelligence platform that provides real-time weather monitoring and climate risk analysis. It helps users detect potential flood and heatwave threats using live weather data such as temperature, humidity, rainfall, and wind speed. It also includes ClimateBot, an interactive AI chatbot that offers climate awareness, disaster preparedness guidance, flood precautions, cyclone safety tips, and heatwave protection advice. Climate Shield aims to improve climate awareness and support safer, faster decision-making during extreme weather conditions.",
+    "description": "Climate Shield is an AI-powered climate intelligence platform that provides real-time weather monitoring and climate risk analysis.",
     "techStack": [
       "HTML",
       "CSS",
