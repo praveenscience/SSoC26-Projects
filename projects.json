@@ -129,5 +129,29 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Memact",
+    "repo": "Context",
+    "projectName": "Memact",
+    "description": "Memact lets users see, edit, and control what apps know about them, while helping apps share user-approved interests and preferences.",
+    "techStack": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Vite"
+    ],
+    "adminName": "Sujay Sudhir",
+    "linkedIn": "https://www.linkedin.com/in/sujaysudhir/",
+    "mentors": [
+      {
+        "name": "Mohit Bareja",
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b"
+      },
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+      }
+    ]
   }
 ]
