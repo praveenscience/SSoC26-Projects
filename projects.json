@@ -1,17 +1,29 @@
-[
-  {
+{
   "owner": "umang24-cyber",
-  "repo": "https://github.com/umang24-cyber/SmartCity.git",
+  "repo": "SmartCity",
   "projectName": "Civora AI",
   "description": "AI-powered urban safety platform that analyzes incidents, crowd activity, and city data to detect risks and improve emergency response.",
   "techStack": [
     "Python",
-    "fastapi",
-    "tailwindcss",
-    "machine learning",
+    "FastAPI",
+    "Tailwind CSS",
+    "Machine Learning",
     "React.js"
   ],
-  "adminName": "Umang Kumar Arora",
-  "linkedIn": "https://linkedin.com/in/umang-arora24"
- }
-]
+  "adminName": "Umang Arora",
+  "linkedIn": "https://linkedin.com/in/umang-arora24",
+  "mentors": [
+    {
+      "name": "Iswar Patra",
+      "linkedIn": "https://linkedin.com/in/iswar-patra-95650a336"
+    },
+    {
+      "name": "Lokesh Jakhar",
+      "linkedIn": "https://linkedin.com/in/lokesh-jakhar-9b8626256"
+    },
+    {
+      "name": "Rehan Shaikh",
+      "linkedIn": "https://linkedin.com/in/rehanshaikh2702"
+    }
+  ]
+}
