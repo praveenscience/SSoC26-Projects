@@ -56,14 +56,11 @@
     "projectName": "Parampara",
     "description": "Parampara: Full-stack web app preserving rural heritage with maps, audio stories, treasure hunts, and an AI chatbot.",
     "techStack": [
-      "HTML5",
-      "CSS3",
       "JavaScript",
       "MongoDB",
       "Cloudinary",
       "Node.js",
-      "Express.js",
-      "Leaflet.js"
+      "Express.js"
     ],
     "adminName": "Pritha Pal",
     "linkedIn": "https://www.linkedin.com/in/pritha-pal21",
