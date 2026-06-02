@@ -129,5 +129,29 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "itzzavdhesh",
+  "repo": "VoiceForge",
+  "projectName": "VoiceForge",
+  "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
+  "techStack": [
+    "react",
+    "Tailwind CSS",
+    "Vite",
+    "Node.js"
+  ],
+  "adminName": "Avdhesh Kumar Dadhich",
+  "linkedIn": "https://www.linkedin.com/in/aavdhesh",
+  "mentors": [
+    {
+      "name": "Rushikesh kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
+    },
+    {
+      "name": "Joyprakash Kalita",
+      "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+    }
+  ]  
+}
 ]
