@@ -52,8 +52,8 @@
   },
   {
     "owner": "madhav2348",
-    "repo": "ss_ai",
-    "projectName": "ss_ai",
+    "repo": "ssAI",
+    "projectName": "ssAI",
     "description": "AI-powered platform screenshot analysis system leveraging OCR, Vision AI, metadata enrichment, tagging, and scalable workers.",
     "techStack": [
       "Typescript",
