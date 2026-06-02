@@ -129,5 +129,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "ManabBiswas",
+    "repo": "EkagraFocus",
+    "projectName": "EkagraFocus",
+    "description": "An offline study assistant featuring AI-assisted planning, smart scheduling, timer,goal tracking, analytics, note systems, & privacy-first insights.",
+    "techStack": [
+      "TypeScript",
+      "Electron",
+      "React",
+      "SQLite"
+    ],
+    "adminName": "Manab Biswas",
+    "linkedIn": "https://www.linkedin.com/in/manab-biswas"
   }
 ]
