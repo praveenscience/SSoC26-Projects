@@ -129,5 +129,34 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
-]
+  },
+
+{
+  "owner": "prabhakarshukla",
+  "repo": "EduFlow-AI",
+  "projectName": "EduFlow AI",
+  "description": "EduFlow AI is an AI-powered student assistant that combines study planning, notes, productivity tracking, and learning support in one platform.",
+  "techStack": [
+    "React",
+    "Typescript",
+    "Tailwind CSS",
+    "Next.js"
+  ],
+  "adminName": "prabhakar shukla",
+  "linkedIn": "https://www.linkedin.com/in/prabhakar-shukla-90334b399/",
+  "mentors": [
+    {
+      "name": "anay paraswani",
+      "linkedIn": "https://www.linkedin.com/in/anay-paraswani/"
+    },
+    {
+      "name": "rushikesh kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma-0360a926a/"
+    },
+    {
+      "name": "Saurav Kumar",
+      "linkedIn": "https://www.linkedin.com/in/saurav02022/"
+    }
+  ]
+}
+  
