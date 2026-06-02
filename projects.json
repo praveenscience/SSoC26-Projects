@@ -129,5 +129,33 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "ionfwsrijan",
+    "repo": "PatchPilot",
+    "projectName": "PatchPilot",
+    "description": "Automated code security triage — SAST, dependency & secret scanning, auto-fixes, verification, and compliance evidence pack.",
+    "techStack": [
+      "Python",
+      "React",
+      "Typescript",
+      "Tailwind CSS"
+    ],
+    "adminName": "Srijan Jaiswal",
+    "linkedIn": "https://www.linkedin.com/in/srijancodes",
+    "mentors": [
+    {
+      "name": "Rushikesh Kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma-0360a926a/"
+    },
+    {
+      "name": "Advait Kulkarni",
+      "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+    },
+    {
+      "name": "Satyam Pandey",
+      "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+    }
+    ]
   }
 ]
