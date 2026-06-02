@@ -54,7 +54,7 @@
     "owner": "madhav2348",
     "repo": "ss.ai",
     "projectName": "ss.ai",
-    "description": "Personal AI for screenshot analysis, metadata extraction, OCR, and intelligent source discovery.",
+    "description": "Intelligent screenshot analysis system leveraging OCR, Vision AI, metadata enrichment, tagging, and scalable workers.",
     "techStack": [
       "Typescript",
       "Nextjs",
