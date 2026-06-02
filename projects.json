@@ -1,5 +1,70 @@
 [
   {
+    "owner": "jpdevhub",
+    "repo": "Agronavis-AI-Farm-Assistant",
+    "projectName": "Agronavis-AI-Farm-Assistant",
+    "description": "AgroNavis is an AI-powered farm intelligence platform that helps farmers detect crop diseases early, reduce input costs, and maximize yield using personalized, data-driven decisions.",
+    "techStack": [
+      "Next.js 14",
+      "TypeScript",
+      "Express.js",
+      "Supabase",
+      "PyTorch"
+    ],
+    "adminName": "Karan Singh",
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
+  },
+  {
+    "owner": "vmDeshpande",
+    "repo": "ai-agent-automation",
+    "projectName": "AI Agent Automation Platform",
+    "description": "Local-first AI workflow automation platform with visual builders, memory, RAG, branching, tools, and multi-provider LLM execution.",
+    "techStack": [
+      "Node.js",
+      "Express.js",
+      "Next.js",
+      "React",
+      "MongoDB",
+      "TypeScript",
+      "JavaScript",
+      "Puppeteer",
+      "Ollama",
+      "Docker",
+      "Cron Jobs",
+      "REST API",
+      "RAG",
+      "AI Workflow Orchestration",
+      "Vector Embeddings"
+    ],
+    "adminName": "Vedant Milind Deshpande",
+    "linkedIn": "https://linkedin.com/in/vedant-devv",
+    "mentors": [
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
+      }
+    ]
+  },
+  {
+    "owner": "roshankumar0036singh",
+    "repo": "auth-server",
+    "projectName": "Auth Server",
+    "description": "Production-ready Go authentication microservice with OAuth 2.0, MFA, RBAC, JWT rotation, Redis caching, and PostgreSQL support.",
+    "techStack": ["Go", "Gin", "PostgreSQL", "Redis", "Docker"],
+    "adminName": "Roshan Singh",
+    "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/",
+    "mentors": [
+      {
+        "name": "Rehan Shaikh",
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
+      },
+      {
+        "name": "Joyprakash Kalita",
+        "linkedIn": "https://linkedin.com/in/joyprakashkalita"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
@@ -32,6 +97,21 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "jpdevhub",
+    "repo": "FreshScanAi",
+    "projectName": "FreshScanAi",
+    "description": "Real-time fish freshness assessment using Edge AI — ensure consumer safety, vendor transparency, and minimize food waste.",
+    "techStack": [
+      "TypeScript",
+      "Python 3.12",
+      "PyTorch",
+      "Supabase",
+      "Hugging Face Spaces"
+    ],
+    "adminName": "Karan Singh",
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
   },
   {
     "owner": "imanchalsingh",
