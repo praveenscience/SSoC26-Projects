@@ -122,10 +122,7 @@
       "TypeScript",
       "React",
       "Chrome Extension (Manifest V3)",
-      "Gemini API",
-      "Ollama",
-      "IndexedDB",
-      "Chrome DevTools Protocol"
+      "LLM"
     ],
     "adminName": "Sudip Mondal",
     "linkedIn": "https://www.linkedin.com/in/sudipmondal2002",
