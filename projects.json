@@ -87,12 +87,9 @@
   "projectName": "DevConnect-AI",
   "description": "DevConnect AI is a full-stack developer community platform where developers share knowledge, discuss ideas, collaborate, and learn together.",
   "techStack": [
-    "TypeScript",
-    "JavaScript",
     "React",
     "Next.js",
     "Firebase (Auth + Firestore)",
-    "Tailwind CSS",
     "AI/ML (OpenAI / Gemini)"
   ],
   "adminName": "ARUN N G",
