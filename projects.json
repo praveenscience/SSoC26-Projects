@@ -129,5 +129,28 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Winter262005",
+    "repo": "Project-Toolsuite",
+    "projectName": "Project Toolsuite",
+    "description": "Project Toolsuite offers fast, privacy-first, no-login browser tools for file handling, development, graphics, security, and productivity tasks.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "adminName": "Shubham Chaudhari",
+    "linkedIn": "https://www.linkedin.com/in/shubhampchaudhari/",
+    "mentors": [
+      {
+        "name": "Iswar Patra",
+        "linkedIn": "https://www.linkedin.com/in/iswar-patra-95650a336"
+      },
+      {
+        "name": "Nirakar Patel",
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
+      }
+    ]
   }
 ]
