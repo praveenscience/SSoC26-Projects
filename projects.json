@@ -129,5 +129,38 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+    {
+    "owner": "Sushma-1706",
+    "repo": "RepoRefine",
+    "projectName": "RepoRefine",
+    "description": "AI-powered GitHub audit platform that analyzes repositories, profiles, and contributions to provide actionable career-growth insights.",
+    "techStack": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "GitHub GraphQL API"
+    ],
+    "adminName": "Damacharla Sushma",
+    "linkedIn": "https://www.linkedin.com/in/sushma-damacharla/",
+    "mentors": [
+      {
+        "name": "Aamod Kumar",
+        "linkedIn": "https://www.linkedin.com/in/aamod-kumar/"
+      },
+      {
+        "name": "Jacinth Mahanta",
+        "linkedIn": "https://www.linkedin.com/in/gitsentinel"
+      },
+      {
+        "name": "Meet Arora",
+        "linkedIn": "https://www.linkedin.com/in/meet-arora-603682296"
+      },
+      {
+      "name": "Om Roy",
+      "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a"
+      }
+    ]
   }
 ]
