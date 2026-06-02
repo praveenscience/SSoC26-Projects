@@ -129,5 +129,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Jyotibrat",
+    "repo": "AI-Flow",
+    "projectName": "AI-Flow",
+    "description": "Microservices-based AI Tools Hub featuring multiple AI-powered applications, each focused on a specific task and user need.",
+    "techStack": [
+      "react",
+      "node",
+      "vite",
+      "typescript"
+    ],
+    "adminName": "Bindupautra Jyotibrat",
+    "linkedIn": "https://www.linkedin.com/in/bindupautra-jyotibrat/"
   }
 ]
