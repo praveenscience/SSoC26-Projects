@@ -116,28 +116,24 @@
   {
     "owner": "imDarshanGK",
     "repo": "localmind",
-    "projectName": "LocalMind — Offline AI Assistant",
-    "description": "Privacy-first offline AI assistant that lets users chat with documents locally using Ollama, FastAPI and LangChain without cloud services.",
+    "projectName": "LocalMind",
+    "description": "Privacy-first offline AI assistant that lets users chat with PDFs, TXT and CSV files locally using Ollama, FastAPI and LangChain.",
     "techStack": [
       "Python",
       "FastAPI",
       "React",
-      "Ollama"
+      "Ollama",
+      "LangChain"
     ],
-    "adminName": "Darshan G K",
-    "linkedIn": "https://linkedin.com/in/imdarshangk",
+    "linkedIn": "https://www.linkedin.com/in/imdarshangk/",
     "mentors": [
       {
         "name": "Preetham Shetty",
-        "linkedIn": "https://www.linkedin.com/in/preetham404"
-        ,
-        "github": "https://github.com/Preetham404"
+        "linkedIn": "https://www.linkedin.com/in/preetham404/"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
-        ,
-        "github": "https://github.com/adikulkarni006"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
       }
     ]
   },
