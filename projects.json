@@ -140,7 +140,7 @@
     "owner": "TENET-DEV-AI",
     "repo": "TENET-AI",
     "projectName": "TENET AI",
-    "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices.",
+    "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices."
     "techStack": [
       "Python",
       "FastAPI",
