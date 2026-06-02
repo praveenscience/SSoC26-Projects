@@ -54,7 +54,7 @@
     "owner": "ManabBiswas",
     "repo": "EkagraFocus",
     "projectName": "EkagraFocus",
-    "description": " An offline study assistant featuring AI-assisted planning, smart scheduling, timer, logging, goal tracking, analytics, note systems, & privacy-first insights.",
+    "description": "An offline study assistant featuring AI-assisted planning, smart scheduling, timer,goal tracking, analytics, note systems, & privacy-first insights.",
     "techStack": [
       "TypeScript",
       "Electron",
