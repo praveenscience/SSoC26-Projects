@@ -129,5 +129,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+   {
+  "owner": "ARUNNG2004",
+  "repo": "DevConnect-AI",
+  "projectName": "DevConnect-AI",
+  "description": "DevConnect AI is a full-stack developer community platform where developers share knowledge, discuss ideas, collaborate, and learn together.",
+  "techStack": [
+    "React",
+    "Next.js",
+    "Firebase (Auth + Firestore)",
+    "AI/ML (OpenAI / Gemini)"
+  ],
+  "adminName": "ARUN N G",
+  "linkedIn": "https://www.linkedin.com/in/aruncse2004/"
+}
 ]
