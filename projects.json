@@ -34,7 +34,7 @@
   "owner": "rishima17",
   "repo": "LecturePulse",
   "projectName": "LecturePulse",
-  "description": "LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback during lectures.",
+  "description": "LecturePulse is a real-time classroom feedback platform that helps teachers gauge understanding and collect anonymous input.",
   "techStack": [
     "React",
     "Vite",
@@ -42,7 +42,7 @@
     "recharts",
     "framer motion",
   ],
-  "adminName": "Rishima",
+  "adminName": "Rishima Rishima",
   "linkedIn": "https://www.linkedin.com/in/rishima17/",
   "mentors": [
     {
