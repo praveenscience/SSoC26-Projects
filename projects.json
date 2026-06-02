@@ -54,7 +54,7 @@
     "owner": "Winter262005",
     "repo": "Project-Toolsuite",
     "projectName": "Project Toolsuite",
-    "description": "Project Toolsuite is a privacy-first collection of browser-based utilities designed for moments when speed, simplicity, and reliability matter most. Whether you're working with files, development tools, graphics, security utilities, or quick productivity workflows, the goal remains the same: Your work stays yours.",
+    "description": "Project Toolsuite offers fast, privacy-first, no-login browser tools for file handling, development, graphics, security, and productivity tasks.",
     "techStack": [
       "HTML",
       "CSS",
