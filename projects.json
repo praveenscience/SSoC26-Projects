@@ -50,23 +50,24 @@
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
-  {
+ {
   "owner": "harshika53",
-  "repo": "https://github.com/harshika53/WebAble",
-  "projectName": "WebAble",
+  "repo": "Webable",
+  "projectName": "Webable",
   "description": "WebAble is an open-source accessibility analysis tool that scans websites, detects WCAG accessibility issues, and helps developers build inclusive web experiences.",
   "techStack": [
-    "React, TypeScript",
-    "Flask (Python)",
+    "React",
+    "Typescript",
+    "Flask(Python)",
     "MongoDB",
-    "Lighthouse, axe-core"
+    "Lighthouse"
   ],
   "adminName": "Harshika Rathod",
-  "linkedIn": "https://www.linkedin.com/in/harshika-rathod"
-  "mentors ": [
-     {
-     "name" : "Satyam Pandey",
-     "linkedIn" : "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
-     }
-  }
-]
+  "linkedIn": "https://www.linkedin.com/in/harshika-rathod",
+  "mentors": [
+    {
+      "name": "Satyam Pandey",
+      "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+    }
+  ]
+}
