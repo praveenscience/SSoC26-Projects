@@ -63,5 +63,10 @@
   ],
   "adminName": "Harshika Rathod",
   "linkedIn": "https://www.linkedin.com/in/harshika-rathod"
-}
+  "mentors ": [
+     {
+     "name" : "Satyam Pandey",
+     "linkedIn" : "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+     }
+  }
 ]
