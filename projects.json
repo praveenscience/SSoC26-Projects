@@ -3,14 +3,11 @@
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
-    "description": "A feature-rich College Management System built using React.js and Express.js.\nThis project is designed for academic use, real-world learning, and full-stack skill enhancement.",
+    "description": "This project is designed for academic use, real-world learning, and full-stack skill enhancement.",
     "techStack": [
       "React",
-      "Typescript",
       "Tailwind CSS",
       "MongoDB",
-      "Mongoose",
-      "Node.js",
       "Express.js"
     ],
     "adminName": "Anchal Singh",
@@ -18,11 +15,11 @@
     "mentors": [
       {
         "name": "Sindhuja",
-        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80/"
       },
       {
         "name": "Pratiksha Khare",
-        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314/"
       }
     ]
   },
@@ -30,14 +27,11 @@
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
-    "description": "A File Sharing System built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary integration for handling file URLs. This project is part of my practice and learning, selected from the college project list.",
+    "description": "A File Sharing System built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary integration for handling file URLs.",
     "techStack": [
       "React",
-      "Typescript",
       "Tailwind CSS",
       "MongoDB",
-      "Mongoose",
-      "Node.js",
       "Express.js"
     ],
     "adminName": "Anchal Singh",
@@ -45,11 +39,11 @@
     "mentors": [
       {
         "name": "Sindhuja",
-        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80/"
       },
       {
         "name": "Pratiksha Khare",
-        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314/"
       }
     ]
   },
@@ -57,14 +51,11 @@
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
-    "description": "SmartPark is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges. It provides real-time parking slot availability, smart booking, and a powerful admin dashboard with a clean and responsive user experience.",
+    "description": "SmartPark is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges.",
     "techStack": [
       "React",
-      "Typescript",
       "Tailwind CSS",
       "MongoDB",
-      "Mongoose",
-      "Node.js",
       "Express.js"
     ],
     "adminName": "Anchal Singh",
@@ -72,11 +63,11 @@
     "mentors": [
       {
         "name": "Sindhuja",
-        "linkedIn": "https://www.linkedin.com/in/sindhuja-80"
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-80/"
       },
       {
         "name": "Pratiksha Khare",
-        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314"
+        "linkedIn": "https://www.linkedin.com/in/pratiksha0407314/"
       }
     ]
   }
