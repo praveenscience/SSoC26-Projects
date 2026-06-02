@@ -125,7 +125,17 @@
       "Ollama"
     ],
     "adminName": "Darshan G K",
-    "linkedIn": "https://linkedin.com/in/imdarshangk"
+    "linkedIn": "https://linkedin.com/in/imdarshangk",
+    "mentors": [
+      {
+        "name": "Preetham Shetty",
+        "linkedIn": "https://www.linkedin.com/in/preetham404"
+      },
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
+      }
+    ]
   },
   {
     "owner": "imanchalsingh",
