@@ -129,5 +129,33 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "thetechguardians",
+    "repo": "Climate-Shield",
+    "projectName": "Climate Shield",
+    "description": "Climate Shield is an AI-powered climate intelligence platform that provides real-time weather monitoring and climate risk analysis.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "Python"
+    ],
+    "adminName": "Vikrant Kumar Mehta",
+    "linkedIn": "https://www.linkedin.com/in/vikrant-kumar-mehta",
+    "mentors": [
+      {
+        "name": "Rushikesh Kusuma",
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
+      },
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
+      },
+      {
+        "name": "Harleen Kaur",
+        "linkedIn": "https://www.linkedin.com/in/-kaur-harleen-/"
+      }        
+    ]
   }
 ]
