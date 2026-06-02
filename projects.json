@@ -129,5 +129,17 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "DevanshuTripathi",
+    "repo": "vodka",
+    "projectName": "Vodka Framework",
+    "description": "A developer-friendly Go full-stack framework for building fast, scalable, and modern web applications",
+    "techStack": [
+      "Go",
+      "NextJS"
+    ],
+    "adminName": "Devanshu Tripathi",
+    "linkedIn": "https://www.linkedin.com/in/devanshutripathi"
   }
 ]
