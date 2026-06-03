@@ -114,6 +114,30 @@
     "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs"
   },
   {
+       "owner": "aanya-srivastava",
+       "repo": "goodWill",
+       "projectName": "goodWill",
+       "description": "goodWill connects patients with local blood donors and hospitals in real-time while rewarding donors to build a secure emergency ecosystem.",
+       "techStack": [
+         "MongoDB",
+         "Express.js",
+         "React",
+         "Node.js"
+       ],
+       "adminName": "Aanya Srivastava",
+       "linkedIn": "https://www.linkedin.com/in/aanyasrivastava/",
+       "mentors": [
+         {
+           "name": "Prince Pal",
+           "linkedIn": "https://www.linkedin.com/in/princepal-dev/"
+         },
+         {
+           "name": "Om Roy",
+           "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a"
+         }
+       ]
+     },
+  {
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
