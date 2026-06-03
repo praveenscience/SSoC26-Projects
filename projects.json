@@ -129,5 +129,20 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "avishek0769",
+    "repo": "DocChat",
+    "projectName": "DocChat",
+    "description": "Turn any web documentation into an AI chat experience with source-backed answers using vector and vector-less retrieval methods.",
+    "techStack": [
+      "React.js",
+      "Express.js",
+      "PostgreSQL",
+      "OpenAI SDK",
+      "Qdrant"
+    ],
+    "adminName": "Avishek Adhikary",
+    "linkedIn": "https://linkedin.com/in/avishekadhikary"
   }
 ]
