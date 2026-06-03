@@ -54,7 +54,7 @@
     "owner": "avishek0769",
     "repo": "DocChat",
     "projectName": "DocChat",
-    "description": "Turn any documentation into an AI chat experience with source-backed answers using vector or vector-less retrieval.",
+    "description": "Turn any web documentation into an AI chat experience with source-backed answers using vector and vector-less retrieval methods.",
     "techStack": [
       "React.js",
       "Express.js",
