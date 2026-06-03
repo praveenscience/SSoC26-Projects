@@ -86,7 +86,7 @@
     "owner": "1809gaurav",
     "repo": "mind-mitra",
     "projectName": "MindMitra",
-    "description": "Open-source mental health app with AI mood tracking, emotion analysis, journaling and SOS alerts.",
+    "description": "Open-source mental health platform with AI-powered mood tracking, emotion analysis, journaling and SOS emergency alerts.",
     "techStack": [
       "Python",
       "FastAPI",
@@ -94,18 +94,15 @@
       "MongoDB",
       "Firebase"
     ],
-    "adminName": "Gaurav Kaushik",
     "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809",
     "mentors": [
       {
         "name": "Gaurav Kaushik",
-        "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809",
-        "github": "https://github.com/1809gaurav"
+        "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809"
       },
       {
         "name": "Srijita Chakraborty",
-        "linkedIn": "https://www.linkedin.com/in/srijita-chakraborty-a61a88290",
-        "github": "https://github.com/srijitac1"
+        "linkedIn": "https://www.linkedin.com/in/srijita-chakraborty-a61a88290"
       }
     ]
   }
