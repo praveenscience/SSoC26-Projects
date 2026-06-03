@@ -1,5 +1,7 @@
 Fork this repo and create a PR for the ones from WhatsApp group.
 
+PR Title should be just the identifier: eg: `praveenscience/SSoC26-Projects`.
+
 ## [Project Unique Identifier, eg: `praveenscience/SSoC26-Projects`]
 
 - Full GitHub URL: 
@@ -13,6 +15,8 @@ Fork this repo and create a PR for the ones from WhatsApp group.
 Make sure the description is between 120 to 150 characters for uniformity for all the projects.
 
 Make sure the JSON is 2 spaces aligned, if not, PR will not be merged.
+
+Add your JSON inside the array, that's your PR contents. I thought you all are smart enough to understand. Keep it alphabetical order with your project names.
 
 Your Project JSON (get it from [the portal](https://portal.socialsummerofcode.com/create-project)) - incase we have to deal with Merge Conflict and stuff:
 
