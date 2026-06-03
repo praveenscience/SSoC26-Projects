@@ -51,21 +51,28 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
-    "owner": "abhro05",
+    "owner": "Abhrojit Sarkar",
     "repo": "AutoDoc.ai",
     "projectName": "AutoDoc.ai",
-    "description": "An open-source tool that automatically generates high-quality READMEs, CONTRIBUTING guides, and API documentation using React, Node.js, Python, and Gemini AI.",
+    "description": "An open-source developer tool that uses Gemini AI to instantly generate high-quality READMEs, API docs, and eliminate documentation debt.",
     "techStack": [
-      "HTML5",
-      "CSS3",
-      "Javascript",
+      "JavaScript",
       "React",
-      "Node.js",
       "Python",
       "Github API",
       "Gemini API"
     ],
     "adminName": "Abhrojit Sarkar",
-    "linkedIn": "https://www.linkedin.com/in/abhrojit-sarkar-702253374"
+    "linkedIn": "https://www.linkedin.com/in/abhrojit-sarkar-702253374",
+    "mentors": [
+      {
+        "name": "Mansi Bhatia",
+        "linkedIn": "https://www.linkedin.com/in/ermansibhatia/"
+      },
+      {
+        "name": "Jacinth Mahanta",
+        "linkedIn": "https://www.linkedin.com/in/gitsentinel/"
+      }
+    ]
   }
 ]
