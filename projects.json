@@ -54,7 +54,7 @@
   "owner": "harshika53",
   "repo": "Webable",
   "projectName": "Webable",
-  "description": "WebAble is an open-source accessibility analysis tool that scans websites, detects WCAG accessibility issues, and helps developers build inclusive web experiences.",
+  "description": "WebAble scans websites for accessibility barriers, identifies WCAG issues, and helps developers create inclusive experiences."
   "techStack": [
     "React",
     "Typescript",
@@ -68,6 +68,10 @@
     {
       "name": "Satyam Pandey",
       "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
-    }
+    },
+     {
+      "name": "Santosh Patel",
+      "linkedIn": " https://www.linkedin.com/in/santosh-patel112/"
+   }
   ]
 }
