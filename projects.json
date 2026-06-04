@@ -139,6 +139,12 @@
       "Python"
     ],
     "adminName": "BBEK-Anand",
-    "linkedIn": "https://www.linkedin.com/in/bbek-anand/"
+    "linkedIn": "https://www.linkedin.com/in/bbek-anand/",
+    "mentors": [
+      {
+        "name": "Anjan B",
+        "linkedIn": "https://www.linkedin.com/in/anjan-b-35a884295"
+      }
+    ]
   }
 ]
