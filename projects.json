@@ -129,5 +129,34 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Abhrojit Sarkar",
+    "repo": "AutoDoc.ai",
+    "projectName": "AutoDoc.ai",
+    "description": "An open-source developer tool that uses Gemini AI to instantly generate high-quality READMEs, API docs, and eliminate documentation debt.",
+    "techStack": [
+      "JavaScript",
+      "React",
+      "Python",
+      "Github API",
+      "Gemini API"
+    ],
+    "adminName": "Abhrojit Sarkar",
+    "linkedIn": "https://www.linkedin.com/in/abhrojit-sarkar-702253374",
+    "mentors": [
+      {
+        "name": "Lokesh Jakhar",
+        "linkedIn": "https://www.linkedin.com/in/lokesh-jakhar-9b8626256"
+      },
+      {
+        "name": "Jacinth Mahanta",
+        "linkedIn": "https://www.linkedin.com/in/gitsentinel/"
+      },
+      {
+        "name": "Anay Paraswani",
+        "linkedIn": "https://www.linkedin.com/in/anay-paraswani/"
+      }
+    ]
   }
 ]
