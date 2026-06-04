@@ -134,7 +134,7 @@
     "owner": "devanshi14malhotra",
     "repo": "GitCanvas",
     "projectName": "GitCanvas",
-    "description": "Transform your GitHub contribution history into stunning visual art with custom themes and personalized styling.",
+    "description": "Transform your GitHub contribution history into stunning visual art with custom themes, personalized styling, and unique color palettes",
     "techStack": [
       "Python",
       "Streamlit",
