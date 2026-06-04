@@ -129,5 +129,20 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  
+  {
+    "owner": "archangel2006",
+    "repo": "SafeHaven",
+    "projectName": "SafeHaven",
+    "description": "SafeHaven is a crowdsourced disaster management platform designed to help individuals and communities stay informed, prepared, and connected during emergencies.\nThe platform focuses on awareness, coordination, safety guidance, and community-driven support during disasters.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "adminName": "Vaibhavi Srivastava",
+    "linkedIn": "https://www.linkedin.com/in/vaibhavi-srivastava26/"
   }
+  
 ]
