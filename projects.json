@@ -45,7 +45,7 @@
       }
     ]
   },
-  {
+ {
     "owner": "Rishabhworkspace",
     "repo": "AlgoForge",
     "projectName": "AlgoForge",
@@ -59,6 +59,8 @@
     ],
     "adminName": "Rishabh Tripathi",
     "linkedIn": "https://www.linkedin.com/in/rishabh-tripathi-728a77317/"
+  },
+  {
     "owner": "roshankumar0036singh",
     "repo": "auth-server",
     "projectName": "Auth Server",
