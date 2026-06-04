@@ -129,5 +129,20 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+{
+    "owner": "devanshi14malhotra",
+    "repo": "GitCanvas",
+    "projectName": "GitCanvas",
+    "description": "Transform your GitHub contribution history into stunning visual art with custom themes, personalized styling, and unique color palettes",
+    "techStack": [
+      "Python",
+      "Streamlit",
+      "GitHub API",
+      "AI",
+      "Developer Tools"
+    ],
+    "adminName": "Devanshi Malhotra",
+    "linkedIn": "https://www.linkedin.com/in/devanshi5malhotra"
   }
 ]
