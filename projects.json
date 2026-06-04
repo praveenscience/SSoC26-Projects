@@ -130,23 +130,19 @@
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
-    {
+{
     "owner": "devanshi14malhotra",
     "repo": "GitCanvas",
     "projectName": "GitCanvas",
-    "description": "GitCanvas is a powerful Streamlit application that transforms your GitHub contribution history into stunning visual art. Say goodbye to boring green squares... visualize your coding journey with style, create your own themes, and make you GitHub truly personal!",
+    "description": "Transform your GitHub contribution history into stunning visual art with custom themes and personalized styling.",
     "techStack": [
-      "python",
-      "streamlit",
-      "ai",
-      "git",
-      "github",
-      "developer-tools",
-      "github-api",
-      "design"
+      "Python",
+      "Streamlit",
+      "GitHub API",
+      "AI",
+      "Developer Tools"
     ],
     "adminName": "Devanshi Malhotra",
     "linkedIn": "https://www.linkedin.com/in/devanshi5malhotra"
   }
-]
 ]
