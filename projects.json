@@ -50,7 +50,13 @@
     "repo": "auth-server",
     "projectName": "Auth Server",
     "description": "Production-ready Go authentication microservice with OAuth 2.0, MFA, RBAC, JWT rotation, Redis caching, and PostgreSQL support.",
-    "techStack": ["Go", "Gin", "PostgreSQL", "Redis", "Docker"],
+    "techStack": [
+      "Go",
+      "Gin",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
     "adminName": "Roshan Singh",
     "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4/",
     "mentors": [
@@ -129,5 +135,23 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Nandini goyal",
+    "repo": "Open-Source-Contribution-Atelier",
+    "projectName": "Open source contribution atelier",
+    "description": "A full-stack learning and operations platform that teaches open-source contribution from beginner to advanced levels through hands-on tasks.",
+    "techStack": [
+      "html",
+      "css",
+      "typescript",
+      "javascript",
+      "python",
+      "dockerfile",
+      "shell"
+    ],
+    "adminName": "Nandini goyal",
+    "linkedIn": "https://linkedin.com/in/goyaljiiiiii"
   }
 ]
+
