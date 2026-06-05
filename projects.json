@@ -129,5 +129,18 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "Nitya-003",
+  "repo": "InnerHue",
+  "projectName": "InnerHue",
+  "description": "InnerHue is an immersive, high-end emotional wellness and reflection platform designed with an Apple-level aesthetic, utilizing glassmorphism, responsive micro-interactions, and a carefully curated psychological color palette.",
+  "techStack" : [
+    "React",
+    "TypeScript",
+    "CSS",
+  ] 
+  "adminName": "Nitya Gosain",
+  "linkedIn": "https://www.linkedin.com/in/nitya-gosain1103"
+}
 ]
