@@ -129,5 +129,22 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "goyaljiiiiii",
+    "repo": "Open-source-contribution-Atelier",
+    "projectName": "Open-source-contribution-Atelier",
+    "description": "A full-stack learning and operations platform for teaching open source contribution from beginner to advanced levels",
+    "techStack": [
+      "python",
+      "Typescript",
+      "CSS",
+      "html",
+      "JavaScript",
+      "shell",
+      "Dockerfile"
+    ],
+    "adminName": "Anchal Singh",
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   }
 ]
