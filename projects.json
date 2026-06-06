@@ -82,6 +82,26 @@
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
+    "owner": "abhisheks008",
+    "repo": "DL-Simplified",
+    "projectName": "DL-Simplified",
+    "description": "A comprehensive repository simplifying deep learning, machine learning, computer vision, and NLP concepts with practical implementations.",
+    "techStack": [
+      "Deep Learning",
+      "Machine Learning",
+      "OpenCV",
+      "NLP",
+      "Image Processing"
+    ],
+    "linkedIn": "https://www.linkedin.com/in/abhishek-sharma-aa06a9183",
+    "mentors": [
+      {
+        "name": "Abhishek Sharma",
+        "linkedIn": "https://www.linkedin.com/in/abhishek-sharma-aa06a9183"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
