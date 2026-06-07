@@ -133,7 +133,7 @@
   
   {
     "owner": "darshan2456",
-    "repo": "C-DSA-interactive-suite",
+    "repo": "C_DSA_interactive_suite",
     "projectName": "C DSA Interactive Suite",
     "description": "A pure C DSA library for learners built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety.",
     "techStack": [
