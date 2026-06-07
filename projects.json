@@ -129,5 +129,30 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "madhav2348",
+    "repo": "ss_ai",
+    "projectName": "ss_ai",
+    "description": "AI-powered platform screenshot analysis system leveraging OCR, Vision AI, metadata enrichment, tagging, and scalable workers.",
+    "techStack": [
+      "Typescript",
+      "Nextjs",
+      "React Native",
+      "AI",
+      "API"
+    ],
+    "adminName": "Madhav Majumdar",
+    "linkedIn": "https://www.linkedin.com/in/madhav-majumdar9099",
+    "mentors": [
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+      },
+      {
+        "name": "Nirakar Patel",
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel/"
+      }
+    ]
   }
 ]
