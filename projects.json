@@ -129,5 +129,32 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  
+  {
+    "owner": "darshan2456",
+    "repo": "C_DSA_interactive_suite",
+    "projectName": "C DSA Interactive Suite",
+    "description": "A pure C DSA library for learners built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety.",
+    "techStack": [
+      "C",
+      "Makefile",
+      "GDB",
+      "Valgrind",
+      "Linux"
+    ],
+    "adminName": "Darshan Parekh",
+    "linkedIn": "https://www.linkedin.com/in/darshan-parekh-777699351",
+    "mentors": [
+      {
+        "name": "Shashanka Shekhar Nayak",
+        "linkedIn": "https://www.linkedin.com/in/shashanka-shekhar-nayak-543a7a258"
+      },
+      {
+        "name": "Satyam Pandey",
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
+      }
+    ]
   }
 ]
+ 
