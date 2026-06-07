@@ -129,5 +129,18 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+  {
+  "owner": "Nitya-003",
+  "repo": "InnerHue",
+  "projectName": "InnerHue",
+  "description": "InnerHue is a premium canvas for your mind—turning the journey of emotional well-being into an inspiring, deeply restorative work of art.",
+  "techStack" : [
+    "React",
+    "TypeScript",
+    "CSS"
+  ],
+  "adminName": "Nitya Gosain",
+  "linkedIn": "https://www.linkedin.com/in/nitya-gosain1103"
+}
 ]
