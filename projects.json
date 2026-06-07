@@ -129,5 +129,19 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "Mayur-Pagote",
+    "repo": "README_Design_Kit",
+    "projectName": "README_Design_Kit",
+    "description": "README Design Kit is your all-in-one solution for creating professional, accessible, and visually appealing documentation.",
+    "techStack": [
+      "TypeScript",
+      "CSS",
+      "Vercel",
+      
+    ],
+    "adminName": "Mayur Pagote",
+    "linkedIn": "https://www.linkedin.com/in/mayurpagote/"
   }
 ]
