@@ -129,5 +129,21 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
+  },
+  {
+    "owner": "anandsundaramoorthysa",
+    "repo": "System-Trace",
+    "projectName": "System Trace",
+    "description": "System Trace is a free, open-source, privacy-first screen-time tracker for Windows, macOS, and Linux. Your data never leaves your device.",
+    "techStack": [
+      "Rust",
+      "Tauri",
+      "React",
+      "TypeScript",
+      "SQLite",
+      "Tailwind CSS"
+    ],
+    "adminName": "Anand Sundaramoorthy SA",
+    "linkedIn": "https://www.linkedin.com/in/anandsundaramoorthysa/"
   }
 ]
