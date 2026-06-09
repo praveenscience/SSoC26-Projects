@@ -1023,4 +1023,25 @@
       }
     ]
   }
+  {
+    "owner": "Pri-21-coder",
+    "repo": "Parampara",
+    "projectName": "Parampara",
+    "description": "Parampara is a full-stack web app preserving rural heritage through interactive maps, captivating audio stories, treasure hunts, and an AI chatbot.",
+    "techStack": [
+      "JavaScript",
+      "MongoDB",
+      "Cloudinary",
+      "Node.js",
+      "Express.js"
+    ],
+    "adminName": "Pritha Pal",
+    "linkedIn": "https://www.linkedin.com/in/pritha-pal21",
+    "mentors": [
+      {
+        "name": "Satyam Pandey",
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+      }
+    ]
+  }
 ]
