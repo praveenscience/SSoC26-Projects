@@ -1,53 +1,21 @@
-[
-  {
-    "owner": "imanchalsingh",
-    "repo": "collegems",
-    "projectName": "College Management System",
-    "description": "A feature-rich College Management System built using React.js and Express.js.\nThis project is designed for academic use, real-world learning, and full-stack skill enhancement.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  },
-  {
-    "owner": "imanchalsingh",
-    "repo": "File-Sharing-System",
-    "projectName": "File Sharing System",
-    "description": "A File Sharing System built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary integration for handling file URLs. This project is part of my practice and learning, selected from the college project list.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  },
-  {
-    "owner": "imanchalsingh",
-    "repo": "parkfinder",
-    "projectName": "Parking Slot Management System",
-    "description": "SmartPark is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges. It provides real-time parking slot availability, smart booking, and a powerful admin dashboard with a clean and responsive user experience.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
-    ],
-    "adminName": "Anchal Singh",
-    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
-]
+{
+  "owner": "omroy07",
+  "repo": "AI-Money-Mentor",
+  "projectName": "AI Money Mentor",
+  "description": "An AI-powered personal finance platform that helps users plan, optimize, and grow their money with personalized insights, tax intelligence, investment analysis, and financial wellness tools — all in one place.",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "AI ",
+    "PYTHON"
+  ],
+  "adminName": "Om Roy",
+  "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a/",
+  "mentors": [
+    {
+      "name": "Roopa S",
+      "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291/"
+    }
+  ]
+}
