@@ -892,9 +892,15 @@
     "repo": "TENET-AI",
     "projectName": "TENET AI",
     "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices.",
-    "techStack": ["Python", "FastAPI", "React", "Docker", "Kubernetes"],
+    "techStack": ["Python", "FastAPI", "Docker", "Kubernetes"],
     "adminName": "Savio D'Souza",
-    "linkedIn": "https://linkedin.com/in/savio-d-souza-0a1810349/"
+    "linkedIn": "https://linkedin.com/in/savio-d-souza-0a1810349/",
+    "mentors": [
+      {
+        "name": "Preetham Shetty",
+        "linkedIn": "https://www.linkedin.com/in/preetham404/"
+      }
+    ]
   },
   {
     "owner": "niharika-mente",
