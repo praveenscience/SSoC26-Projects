@@ -151,6 +151,23 @@
     ]
   },
   {
+    "owner": "a-kaushik2209",
+    "repo": "ARC",
+    "projectName": "ARC (Autonomous Recovery Controller)",
+    "description": "ARC is a real-time fault-tolerance framework that monitors neural network training signals: gradients, loss curvature, Fisher information, to predict and recover from failures before they crash your run.",
+    "techStack": [
+      "Python"
+    ],
+    "adminName": "Aryan Kaushik",
+    "linkedIn": "https://www.linkedin.com/in/aryan-2209-kaushik/",
+    "mentors": [
+      {
+        "name": "Mitul Gupta",
+        "linkedIn": "https://www.linkedin.com/in/gupta-mitul/"
+      }
+    ]
+  },
+  {
     "owner": "roshankumar0036singh",
     "repo": "auth-server",
     "projectName": "Auth Server",
