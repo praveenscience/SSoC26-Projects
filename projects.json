@@ -64,5 +64,15 @@
     ],
     "adminName": "Avishek Adhikary",
     "linkedIn": "https://linkedin.com/in/avishekadhikary"
-  }
+  },
+  "mentors": [
+     {
+        "name": "Tushar Sonawane",
+        "linkedIn": "https://www.linkedin.com/in/tushar-sonawane-800422336"
+     },
+     {
+        "name": "Amarase Kara",
+        "linkedIn": "https://www.linkedin.com/in/charaka-hashan"
+     }
+   ]
 ]
