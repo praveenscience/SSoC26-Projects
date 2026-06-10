@@ -151,6 +151,25 @@
     ]
   },
   {
+    "owner": "sudip-mondal-2002",
+    "repo": "Amplitron",
+    "projectName": "Amplitron",
+    "description": "Real-time guitar amplifier simulator with ultra-low latency, 16 studio-quality effects, and cross-platform support for desktop, Android, iOS, and web.",
+    "techStack": [
+      "C++17",
+      "Audio Processing",
+      "Dear ImGui"
+    ],
+    "adminName": "Sudip Mondal",
+    "linkedIn": "https://www.linkedin.com/in/sudipmondal2002",
+    "mentors": [
+      {
+        "name": "Mohit Bareja",
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b/"
+      }
+    ]
+  },
+  {
     "owner": "roshankumar0036singh",
     "repo": "auth-server",
     "projectName": "Auth Server",
