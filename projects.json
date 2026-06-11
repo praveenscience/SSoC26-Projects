@@ -151,6 +151,31 @@
     ]
   },
   {
+  "owner": "rishima17",
+  "repo": "LecturePulse",
+  "projectName": "LecturePulse",
+  "description": "LecturePulse is a real-time classroom feedback platform that helps teachers gauge understanding and collect anonymous input.",
+  "techStack": [
+    "React",
+    "Vite",
+    "Tailwind Css 4",
+    "recharts",
+    "framer motion",
+  ],
+  "adminName": "Rishima Rishima",
+  "linkedIn": "https://www.linkedin.com/in/rishima17/",
+  "mentors": [
+    {
+      "name": "Satyam Pandey",
+      "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+    },
+    {
+      "name": "Kothakapu Vishnu Kiran",
+      "linkedIn": "https://linkedin.com/in/kothakapuvishnukiran"
+    }
+  ]
+
+},
     "owner": "roshankumar0036singh",
     "repo": "auth-server",
     "projectName": "Auth Server",
