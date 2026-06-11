@@ -214,6 +214,21 @@
     ]
   },
   {
+    "owner": "12fahed",
+    "repo": "CertiNova",
+    "projectName": "CertiNova",
+    "description": "A comprehensive platform for creating, managing, and distributing certificates in bulk while maintaining data security through advanced encryption",
+    "techStack": [
+      "Typerscript",
+      "ExpressJs",
+      "React",
+      "NextJs",
+      "MongoDb",
+    ],
+    "adminName": "Fahed Khan",
+    "linkedIn": "https://www.linkedin.com/in/fahed-khan-13b11025b"
+  },
+  {
     "owner": "umang24-cyber",
     "repo": "SmartCity",
     "projectName": "Civora AI",
