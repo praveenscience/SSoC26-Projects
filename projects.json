@@ -217,14 +217,13 @@
     "owner": "12fahed",
     "repo": "CertiNova",
     "projectName": "CertiNova",
-    "description": "A comprehensive, secure, and user-friendly platform for creating, managing,\nand distributing certificates in bulk. CertiNova enables organizations to\ngenerate personalized certificates efficiently while maintaining data security\nthrough advanced encryption.",
+    "description": "A comprehensive platform for creating, managing, and distributing certificates in bulk while maintaining data security through advanced encryption",
     "techStack": [
       "Typerscript",
       "ExpressJs",
       "React",
       "NextJs",
       "MongoDb",
-      "TailwindCSS"
     ],
     "adminName": "Fahed Khan",
     "linkedIn": "https://www.linkedin.com/in/fahed-khan-13b11025b"
