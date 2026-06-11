@@ -660,366 +660,41 @@
       "Express.js"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
   },
   {
-    "owner": "ionfwsrijan",
-    "repo": "PatchPilot",
-    "projectName": "PatchPilot",
-    "description": "Automated code security triage with SAST, dependency and secret scanning, auto-fixes, verification, and compliance evidence generation.",
-    "techStack": ["Python", "React", "Typescript", "Tailwind CSS"],
-    "adminName": "Srijan Jaiswal",
-    "linkedIn": "https://linkedin.com/in/srijancodes/",
-    "mentors": [
-      {
-        "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma-0360a926a/"
-      },
-      {
-        "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
-      },
-      {
-        "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
-      }
-    ]
-  },
-  {
-    "owner": "Durgeshwar-AI",
-    "repo": "pdfToPng",
-    "projectName": "pdfToPng",
-    "description": "Multi-functional file processing tool supporting PDF to PNG, image to WEBP or JPG, and other conversions while ensuring complete data privacy.",
-    "techStack": ["Python", "Flask", "React"],
-    "adminName": "Durgeshwar Kumar Shaw",
-    "linkedIn": "https://linkedin.com/in/durgeshwar/"
-  },
-  {
-    "owner": "niharika-mente",
-    "repo": "Product-Store",
-    "projectName": "Product-Store",
-    "description": "Product Store is a full-stack e-commerce web application designed to manage and display consumer products through a sleek, responsive interface.",
-    "techStack": ["React.js", "Node.js", "Express.js", "MongoDB"],
-    "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323/",
-    "mentors": [
-      {
-        "name": "Om Roy",
-        "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
-      },
-      {
-        "name": "Aamod Kumar",
-        "linkedIn": "https://linkedin.com/in/aamod-kumar/"
-      },
-      {
-        "name": "Harleen Kaur",
-        "linkedIn": "https://linkedin.com/in/-kaur-harleen-/"
-      },
-      {
-        "name": "Rishima",
-        "linkedIn": "https://linkedin.com/in/rishima17/"
-      }
-    ]
-  },
-  {
-    "owner": "Winter262005",
-    "repo": "Project-Toolsuite",
-    "projectName": "Project Toolsuite",
-    "description": "Project Toolsuite offers fast, privacy-first, no-login browser tools for file handling, development, graphics, security, and productivity tasks.",
-    "techStack": ["HTML", "CSS", "JavaScript"],
-    "adminName": "Shubham Chaudhari",
-    "linkedIn": "https://linkedin.com/in/shubhampchaudhari/",
-    "mentors": [
-      {
-        "name": "Iswar Patra",
-        "linkedIn": "https://linkedin.com/in/iswar-patra-95650a336/"
-      },
+      "owner": "niharika-mente",
+      "repo": "ThinkBoard",
+      "projectName": "ThinkBoard",
+      "description": "ThinkBoard is a full-stack notes and idea management platform that helps users create, organize, and track information efficiently.",
+      "techStack": [
+        "JavaScript", 
+        "Tailwind CSS", 
+        "Node.js",
+        "MongoDB"
+        ],
+      "adminName": "Niharika Mente",
+      "linkedIn": "https://linkedin.com/in/niharika-mente-473434323",
+      "mentors": [
       {
         "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
-      }
-    ]
-  },
-  {
-    "owner": "Bindu2020324",
-    "repo": "PromptPilot-AI",
-    "projectName": "PromptPilot-AI",
-    "description": "AI-powered prompt enhancement platform that transforms basic prompts into structured, context-aware instructions for better responses.",
-    "techStack": ["React", "Vite", "JavaScript", "CSS", "Background Script"],
-    "adminName": "Bindu Runwal",
-    "linkedIn": "https://linkedin.com/in/bindu-choudhary/"
-  },
-  {
-    "owner": "AnthropicBots",
-    "repo": "ptet-web",
-    "projectName": "ptet-web",
-    "description": "Open-source PTET education platform offering resources, notices, forms, updates, and a responsive experience for students.",
-    "techStack": ["HTML", "CSS", "JavaScript", "MySQL", "React"],
-    "adminName": "Mohit Yadav",
-    "linkedIn": "https://linkedin.com/in/mohit-yadav-6b2319305/"
-  },
-  {
-    "owner": "ExperQuick",
-    "repo": "PyLabFlow",
-    "projectName": "PyLabFlow",
-    "description": "Offline-first Python framework for reproducible computational experiments, workflow automation, and research project management.",
-    "techStack": ["Python"],
-    "adminName": "Bbek-anand",
-    "linkedIn": "https://linkedin.com/in/bbek-anand/",
-    "mentors": [
-      {
-        "name": "Anjan B",
-        "linkedIn": "https://linkedin.com/in/anjan-b-35a884295/"
-      }
-    ]
-  },
-  {
-    "owner": "Sushma-1706",
-    "repo": "RepoRefine",
-    "projectName": "RepoRefine",
-    "description": "AI-powered GitHub audit platform that analyzes repositories, profiles, and contributions to provide actionable career-growth insights.",
-    "techStack": [
-      "Next.js",
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "GitHub GraphQL API"
-    ],
-    "adminName": "Damacharla Sushma",
-    "linkedIn": "https://linkedin.com/in/sushma-damacharla/",
-    "mentors": [
-      {
-        "name": "Aamod Kumar",
-        "linkedIn": "https://linkedin.com/in/aamod-kumar/"
-      },
-      {
-        "name": "Jacinth Mahanta",
-        "linkedIn": "https://linkedin.com/in/gitsentinel/"
-      },
-      {
-        "name": "Meet Arora",
-        "linkedIn": "https://linkedin.com/in/meet-arora-603682296/"
-      },
-      {
-        "name": "Om Roy",
-        "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
-      }
-    ]
-  },
-  {
-    "owner": "archangel2006",
-    "repo": "SafeHaven",
-    "projectName": "SafeHaven",
-    "description": "Crowdsourced disaster management platform designed to help individuals and communities stay informed, prepared, and connected during emergencies.",
-    "techStack": ["HTML", "CSS", "JavaScript"],
-    "adminName": "Vaibhavi Srivastava",
-    "linkedIn": "https://linkedin.com/in/vaibhavi-srivastava26/"
-  },
-  {
-    "owner": "Sitaram8472",
-    "repo": "School_Website",
-    "projectName": "School_Website",
-    "description": "EduStream is a school portal with real-time notices, resource sharing, and an AI assistant that connects students, teachers, and parents.",
-    "techStack": [
-      "React",
-      "MongoDB",
-      "Node.js",
-      "Express.js",
-      "Machine Learning"
-    ],
-    "adminName": "Sitaram Sahu",
-    "linkedIn": "https://linkedin.com/in/sitaram-sahu/"
-  },
-  {
-    "owner": "Userunknown84",
-    "repo": "Spam-Detection-System",
-    "projectName": "Spam Detection System",
-    "description": "Spam Detection System is a full-stack ML application that detects spam, smishing, and offensive messages on web and mobile.",
-    "techStack": ["Python", "Reactjs", "Nodejs", "ReactNative"],
-    "adminName": "Aditya Sharma",
-    "linkedIn": "https://linkedin.com/in/aditya-sharma-340253236/",
-    "mentors": [
-      {
-        "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma/"
-      },
-      {
-        "name": "Shashanka Shekhar Nayak",
-        "linkedIn": "https://linkedin.com/in/shashanka-shekhar-nayak-543a7a258/"
-      }
-    ]
-  },
-  {
-    "owner": "madhav2348",
-    "repo": "ss_ai",
-    "projectName": "ss_ai",
-    "description": "AI-powered platform screenshot analysis system leveraging OCR, Vision AI, metadata enrichment, tagging, and scalable workers.",
-    "techStack": ["Typescript", "Nextjs", "React Native", "AI", "API"],
-    "adminName": "Madhav Majumdar",
-    "linkedIn": "https://linkedin.com/in/madhav-majumdar9099/",
-    "mentors": [
-      {
-        "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
-      },
-      {
-        "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
-      }
-    ]
-  },
-  {
-    "owner": "itzzavdhesh",
-    "repo": "TabTwin",
-    "projectName": "TabTwin",
-    "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
-    "techStack": ["react", "Tailwind CSS", "Vite", "Node.js"],
-    "adminName": "Avdhesh Kumar Dadhich",
-    "linkedIn": "https://linkedin.com/in/aavdhesh/",
-    "mentors": [
-      {
-        "name": "Rishabh Kumar",
-        "linkedIn": "https://linkedin.com/in/rrishabk/"
-      },
-      {
-        "name": "Joyprakash Kalita",
-        "linkedIn": "https://linkedin.com/in/joyprakashkalita/"
-      }
-    ]
-  },
-  {
-    "owner": "TENET-DEV-AI",
-    "repo": "TENET-AI",
-    "projectName": "TENET AI",
-    "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices.",
-    "techStack": ["Python", "FastAPI", "React", "Docker", "Kubernetes"],
-    "adminName": "Savio D'Souza",
-    "linkedIn": "https://linkedin.com/in/savio-d-souza-0a1810349/"
-  },
-  {
-    "owner": "niharika-mente",
-    "repo": "ThinkBoard",
-    "projectName": "ThinkBoard",
-    "description": "ThinkBoard is a full-stack notes and idea management platform that helps users create, organize, and track information efficiently.",
-    "techStack": ["JavaScript", "Tailwind CSS", "Node.js", "MongoDB"],
-    "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323/",
-    "mentors": [
-      {
-        "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
       },
       {
         "name": "Roopa S",
-        "linkedIn": "https://linkedin.com/in/roopa-s-aa9777291/"
+        "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291/"
       },
       {
         "name": "Aditya Singh",
-        "linkedIn": "https://linkedin.com/in/adityas72/"
+        "linkedIn": "https://linkedin.com/in/adityas72"
       },
       {
         "name": "Sparsh Mishra",
-        "linkedIn": "https://linkedin.com/in/sparshm8/"
-      }
-    ]
-  },
-  {
-    "owner": "Rishabhworkspace",
-    "repo": "Traceon",
-    "projectName": "Traceon",
-    "description": "AI-powered platform that maps codebases into interactive dependency graphs and analyzes developer capabilities through LLM insights",
-    "techStack": ["React", "Node.js", "Next.js", "Typescript", "MongoDb"],
-    "adminName": "Rishabh Tripathi",
-    "linkedIn": "https://linkedin.com/in/rishabh-tripathi-728a77317/"
-  },
-  {
-    "owner": "jai3546",
-    "repo": "AI_ROCKERS",
-    "projectName": "VidyAi++",
-    "description": "Vidyai is an open-source, AI-driven educational platform that tracks student focus and stress to deliver adaptive, gamified learning.",
-    "techStack": [
-      "Next.js",
-      "Gemini API",
-      "Typescript.js",
-      "Tailwind.css",
-      "FaceAPI.js"
-    ],
-    "adminName": "Tatikonda Jaideep",
-    "linkedIn": "https://linkedin.com/in/jaideep-tatikonda/",
-    "mentors": [
-      {
-        "name": "Saurav Kumar",
-        "linkedIn": "https://linkedin.com/in/saurav02022/"
+        "linkedIn": "https://www.linkedin.com/in/sparshm8/"
       },
       {
-        "name": "Mohit Aggarwal",
-        "linkedIn": "https://linkedin.com/in/mohitaggarwal551/"
-      },
-      {
-        "name": "Aditya Singh",
-        "linkedIn": "https://linkedin.com/in/adityas72/"
-      }
-    ]
-  },
-  {
-    "owner": "DevanshuTripathi",
-    "repo": "vodka",
-    "projectName": "Vodka Framework",
-    "description": "Developer-friendly Go full-stack framework for building fast, scalable, and modern web applications with robust tooling.",
-    "techStack": ["Go", "NextJS"],
-    "adminName": "Devanshu Tripathi",
-    "linkedIn": "https://linkedin.com/in/devanshutripathi/"
-  },
-  {
-    "owner": "itzzavdhesh",
-    "repo": "VoiceForge",
-    "projectName": "VoiceForge",
-    "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
-    "techStack": ["react", "Tailwind CSS", "Vite", "Node.js"],
-    "adminName": "Avdhesh Kumar Dadhich",
-    "linkedIn": "https://linkedin.com/in/aavdhesh/",
-    "mentors": [
-      {
-        "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma/"
-      },
-      {
-        "name": "Joyprakash Kalita",
-        "linkedIn": "https://linkedin.com/in/joyprakashkalita/"
-      },
-      {
-        "name": "Rishabh Kumar",
-        "linkedIn": "https://linkedin.com/in/rrishabk/"
-      }
-    ]
-  },
-  {
-    "owner": "Abhigyan-Shekhar",
-    "repo": "Waggle-mcp",
-    "projectName": "Waggle",
-    "description": "Waggle MCP gives MCP-compatible AI agents local graph-backed memory for decisions, preferences, contradictions, and project context.",
-    "techStack": ["Python 3.11+", "MCP", "SQLite", "Neo4j"],
-    "adminName": "Abhigyan Shekhar",
-    "linkedIn": "https://linkedin.com/in/abhigyan-shekhar-4b3b8b344/"
-  },
-  {
-    "owner": "harshika53",
-    "repo": "Webable",
-    "projectName": "Webable",
-    "description": "Open-source accessibility analysis tool that scans websites, detects WCAG issues, and helps developers build inclusive experiences.",
-    "techStack": [
-      "React",
-      "Typescript",
-      "Flask(Python)",
-      "MongoDB",
-      "Lighthouse"
-    ],
-    "adminName": "Harshika Rathod",
-    "linkedIn": "https://linkedin.com/in/harshika-rathod/",
-    "mentors": [
-      {
-        "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "name": "Prince Pal",
+        "linkedIn": "https://www.linkedin.com/in/princepal-dev/"
       }
     ]
   }
