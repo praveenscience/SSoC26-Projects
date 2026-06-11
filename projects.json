@@ -1027,21 +1027,13 @@
     "owner": "Himanshu49Gaur",
     "repo": "PhishDefender-PhishingResponseSystem",
     "projectName": "PhishDefender-PhishingResponseSystem",
-    "description": "An end-to-end AI-powered phishing detection and response platform built as a Chrome browser extension. Combines machine learning, threat intelligence APIs, and rule-based automation to detect, analyze, and respond to phishing emails in real time directly inside Gmail.",
+    "description": "An end-to-end AI-powered phishing detection and response platform built as a Chrome browser extension.",
     "techStack": [
       "Python",
       "Flask",
       "LightGBM",
       "XGBoost",
-      "numpy",
-      "pandas",
-      "requests",
-      "scikit-learn",
-      "joblib",
-      "BeautifulSoup4",
-      "ReportLab",
-      "python-whois",
-      "dnspython"
+      "numpy"
     ],
     "adminName": "Himanshu Gaur",
     "linkedIn": "www.linkedin.com/in/himanshu-gaur-305006282"
