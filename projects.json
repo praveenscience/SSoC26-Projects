@@ -53,7 +53,17 @@
       "Hedera Hashgraph SDK"
     ],
     "adminName": "David Pratama",
-    "linkedIn": "https://linkedin.com/in/daviddprtma/"
+    "linkedIn": "https://linkedin.com/in/daviddprtma/",
+    "mentors": [
+      {
+        "name": "Mansi Bhatia",
+        "linkedIn": "https://linkedin.com/in/ermansibhatia"
+      },
+      {
+        "name": "Tushar Sonawane",
+        "linkedIn": "https://linkedin.com/in/tushar-sonawane-800422336"
+      }
+    ]
   },
   {
     "owner": "jpdevhub",
