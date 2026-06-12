@@ -646,6 +646,31 @@
     ]
   },
   {
+    "owner": "imDarshanGK",
+    "repo": "localmind",
+    "projectName": "LocalMind",
+    "description": "Privacy-first offline AI assistant that lets users chat with PDFs, TXT and CSV files locally using Ollama, FastAPI and LangChain.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "Ollama",
+      "LangChain"
+    ],
+    "adminName": "Darshan G K",
+    "linkedIn": "https://www.linkedin.com/in/imdarshangk/",
+    "mentors": [
+      {
+        "name": "Preetham Shetty",
+        "linkedIn": "https://www.linkedin.com/in/preetham404/"
+      },
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
