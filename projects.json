@@ -1023,4 +1023,34 @@
       }
     ]
   }
+  {
+  "owner": "Puneet04-tech",
+  "repo": "1-1-mentor-session-booking-app",
+  "projectName": "1-1-mentor-session-booking-app",
+  "description": "An interactive full-stack app for real-time mentorship, featuring video calls, instant messaging, and CRDT-powered collaborative code editing.",
+  "techStack": [
+    "Next.js 14",
+    "Yjs",
+    "CRDT",
+    "Socket.io/WEbRTC",
+    "Express.js",
+  ],
+  "adminName": "Puneet Chaturvedi",
+  "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327"
+  }
+  {
+  "owner": "Puneet04-tech",
+  "repo": "nexus-protocol-vision",
+  "projectName": "Nexus Protocol Vision",
+  "description": "Nexus Protocol Vision: Interactive UI managing local-first digital twins, privacy negotiations, and knowledge maps for an agentic operating layer.",
+  "techStack": [
+    "React 18.2",
+    "TypeScript",
+    "Framer Motion",
+    "Lucide Icons",
+    "Google Gemini API"
+  ],
+  "adminName": "Puneet Chaturvedi",
+  "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327"
+  }
 ]
