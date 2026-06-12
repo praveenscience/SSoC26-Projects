@@ -1025,8 +1025,8 @@
   },
   {
     "owner": "Himanshu49Gaur",
-    "repo": "PhishDefender-PhishingResponseSystem",
-    "projectName": "PhishDefender-PhishingResponseSystem",
+    "repo": "PhishDefender-PhishingResponseSyste",
+    "projectName": "PhishDefender",
     "description": "An end-to-end AI-powered phishing detection and response platform built as a Chrome browser extension, Combines machine learning.",
     "techStack": [
       "Python",
