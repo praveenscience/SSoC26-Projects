@@ -1022,5 +1022,25 @@
         "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
       }
     ]
+  },
+  {
+    "owner": "Himanshu49Gaur",
+    "repo": "PhishDefender-PhishingResponseSystem",
+    "projectName": "PhishDefender",
+    "description": "An end-to-end AI-powered phishing detection and response platform built as a Chrome browser extension, Combines machine learning.",
+    "techStack": [
+      "Python",
+      "Flask",
+      "LightGBM",
+      "XGBoost",
+      "numpy"
+    ],
+    "adminName": "Himanshu Gaur",
+    "linkedIn": "https://www.linkedin.com/in/himanshu-gaur-305006282/"
+    "mentors": [
+      {
+        "name": "Satyam Pandey",
+        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+      }
   }
 ]
