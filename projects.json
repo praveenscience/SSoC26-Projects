@@ -646,6 +646,26 @@
     ]
   },
   {
+    "owner": "sudip-mondal-2002",
+    "repo": "opticlick",
+    "projectName": "Opticlick",
+    "description": "A Manifest V3 Chrome extension acting as an autonomous web agent using Set-of-Mark visual prompting, multimodal LLMs, and Chrome DevTools Protocol.",
+    "techStack": [
+      "TypeScript",
+      "React",
+      "Chrome Extension (Manifest V3)",
+      "LLM"
+    ],
+    "adminName": "Sudip Mondal",
+    "linkedIn": "https://www.linkedin.com/in/sudipmondal2002",
+    "mentors": [
+      {
+        "name": "Mohit Bareja",
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b/"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
