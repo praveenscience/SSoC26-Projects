@@ -1238,6 +1238,15 @@
     "mentors": []
   },
   {
+    "owner": "Kartikgauttam14",
+    "repo": "Trekunity",
+    "projectName": "Treakunity",
+    "description": "Treakunity is a travel adventure platform connecting trekkers, sharing trails, planning expeditions, and discovering new hiking destinations.",
+    "techStack": ["React", "Node.js", "MongoDB", "Express.js"],
+    "adminName": "Kartik Gauttam",
+    "linkedIn": "https://linkedin.com/in/kartikgauttam14"
+  },
+  {
     "owner": "jai3546",
     "repo": "AI_ROCKERS",
     "projectName": "VidyAi++",
