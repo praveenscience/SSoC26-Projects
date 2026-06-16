@@ -1,42 +1,27 @@
 [
   {
-    "owner": "Puneet04-tech",
-    "repo": "1-1-mentor-session-booking-app",
-    "projectName": "1-1-mentor-session-booking-app",
-    "description": "An interactive full-stack app for real-time mentorship, featuring video calls, instant messaging, and CRDT-powered collaborative code editing.",
-    "techStack": [
-      "Next.js 14",
-      "Yjs",
-      "CRDT",
-      "Socket.io/WEbRTC",
-      "Express.js"
-    ],
-    "adminName": "Puneet Chaturvedi",
-    "linkedIn": "https://linkedin.com/in/puneet-chaturvedi-0043a3327/"
-  },
-  {
     "owner": "sreerevanth",
     "repo": "AgentWatch",
     "projectName": "AgentWatch",
     "description": "Real-time observability and safety platform for AI agents that monitors reasoning traces, detects failures, and enforces operational guardrails.",
     "techStack": [
-      "Python",
-      "TypeScript",
-      "Next.js",
+      "Docker",
       "FastAPI",
+      "Next.js",
       "PostgreSQL",
-      "Docker"
+      "Python",
+      "TypeScript"
     ],
     "adminName": "S Sreerevanth",
-    "linkedIn": "https://linkedin.com/in/sree-revanth/",
+    "linkedIn": "https://www.linkedin.com/in/sree-revanth",
     "mentors": [
       {
         "name": "Rehan Shaikh",
-        "linkedIn": "https://linkedin.com/in/rehanshaikh2702/"
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
       },
       {
         "name": "Mansi Bhatia",
-        "linkedIn": "https://linkedin.com/in/ermansibhatia/"
+        "linkedIn": "https://www.linkedin.com/in/ermansibhatia"
       }
     ]
   },
@@ -46,14 +31,15 @@
     "projectName": "AgroDex",
     "description": "AgroDex fights food fraud in Indonesian by pairing Hedera’s immutable ledger with Gemini 2.5 Flash AI for auditing in real-time food.",
     "techStack": [
+      "Express.js",
+      "Hedera Hashgraph SDK",
       "React",
-      "Typescript",
       "Tailwind CSS",
-      "Expressjs",
-      "Hedera Hashgraph SDK"
+      "TypeScript"
     ],
     "adminName": "David Pratama",
-    "linkedIn": "https://linkedin.com/in/daviddprtma/"
+    "linkedIn": "https://www.linkedin.com/in/daviddprtma",
+    "mentors": []
   },
   {
     "owner": "jpdevhub",
@@ -61,27 +47,34 @@
     "projectName": "Agronavis-AI-Farm-Assistant",
     "description": "An AI farm intelligence platform that helps farmers detect crop diseases early, cut costs and boost yields with personalized, data-driven decisions.",
     "techStack": [
-      "Next.js 14",
-      "TypeScript",
       "Express.js",
+      "Next.js 14",
+      "PyTorch",
       "Supabase",
-      "PyTorch"
+      "TypeScript"
     ],
     "adminName": "Karan Singh",
-    "linkedIn": "https://linkedin.com/in/karansingh-rathorecs/"
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs",
+    "mentors": []
   },
   {
     "owner": "vmDeshpande",
     "repo": "ai-agent-automation",
     "projectName": "AI Agent Automation Platform",
     "description": "Local-first AI workflow automation platform with visual builders, memory, RAG, branching, tools, and multi-provider LLM execution.",
-    "techStack": ["Express.js", "Next.js", "React", "MongoDB", "TypeScript"],
+    "techStack": [
+      "Express.js",
+      "MongoDB",
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
     "adminName": "Vedant Milind Deshpande",
-    "linkedIn": "https://linkedin.com/in/vedant-devv/",
+    "linkedIn": "https://www.linkedin.com/in/vedant-devv",
     "mentors": [
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       }
     ]
   },
@@ -90,39 +83,57 @@
     "repo": "AI-Flow",
     "projectName": "AI-Flow",
     "description": "Microservices-based AI Tools Hub featuring multiple AI-powered applications, each focused on a specific task and user need.",
-    "techStack": ["react", "node", "Vite", "typescript"],
+    "techStack": [
+      "Node.js",
+      "React",
+      "TypeScript",
+      "Vite"
+    ],
     "adminName": "Bindupautra Jyotibrat",
-    "linkedIn": "https://linkedin.com/in/bindupautra-jyotibrat/"
+    "linkedIn": "https://www.linkedin.com/in/bindupautra-jyotibrat",
+    "mentors": []
   },
   {
     "owner": "omroy07",
     "repo": "AI-Money-Mentor",
     "projectName": "AI-Money-Mentor",
     "description": "AI-Money-Mentor is a AI-powered platform delivering personalized financial planning, tax optimization, and investment insights in real-time.",
-    "techStack": ["Python", "HTML", "CSS", "JS", "AI"],
+    "techStack": [
+      "AI",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Python"
+    ],
     "adminName": "Om Roy",
-    "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
+    "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a",
+    "mentors": []
   },
   {
     "owner": "Eshajha19",
     "repo": "Algo-Infinity-Verse",
     "projectName": "Algo-Infinity-Verse",
     "description": "Algo Infinity Verse is a gamified web app for learning Data Structures & Algorithms with quizzes, practice, XP-based leveling,etc",
-    "techStack": ["HTML5", "CSS3", "JavaScript", "Firebase"],
+    "techStack": [
+      "CSS",
+      "Firebase",
+      "HTML",
+      "JavaScript"
+    ],
     "adminName": "Esha Jha",
-    "linkedIn": "https://linkedin.com/in/esha-jha-7708b2298/",
+    "linkedIn": "https://www.linkedin.com/in/esha-jha-7708b2298",
     "mentors": [
       {
         "name": "Rishima",
-        "linkedIn": "https://linkedin.com/in/rishima17/"
+        "linkedIn": "https://www.linkedin.com/in/rishima17"
       },
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       }
     ]
   },
@@ -131,22 +142,33 @@
     "repo": "AlgoForge",
     "projectName": "AlgoForge",
     "description": "Full-stack DSA learning platform with XP, streaks, leaderboards, and structured roadmaps built to make algorithmic progress feel real.",
-    "techStack": ["React", "Node.js", "Next.js", "Typescript", "MongoDb"],
+    "techStack": [
+      "MongoDB",
+      "Next.js",
+      "Node.js",
+      "React",
+      "TypeScript"
+    ],
     "adminName": "Rishabh Tripathi",
-    "linkedIn": "https://linkedin.com/in/rishabh-tripathi-728a77317/"
+    "linkedIn": "https://www.linkedin.com/in/rishabh-tripathi-728a77317",
+    "mentors": []
   },
   {
     "owner": "sudip-mondal-2002",
     "repo": "Amplitron",
     "projectName": "Amplitron",
     "description": "Real-time guitar amplifier simulator with ultra-low latency, 16 studio-quality effects, and cross-platform support for desktop, Android, iOS, and web.",
-    "techStack": ["C++17", "Audio Processing", "Dear ImGui"],
+    "techStack": [
+      "Audio Processing",
+      "C++17",
+      "Dear ImGui"
+    ],
     "adminName": "Sudip Mondal",
-    "linkedIn": "https://linkedin.com/in/sudipmondal2002/",
+    "linkedIn": "https://www.linkedin.com/in/sudipmondal2002",
     "mentors": [
       {
         "name": "Mohit Bareja",
-        "linkedIn": "https://linkedin.com/in/mohit-bareja-ab842422b/"
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b"
       }
     ]
   },
@@ -155,17 +177,23 @@
     "repo": "auth-server",
     "projectName": "Auth Server",
     "description": "Production-ready Go authentication microservice with OAuth 2.0, MFA, RBAC, JWT rotation, Redis caching, and PostgreSQL support.",
-    "techStack": ["Go", "Gin", "PostgreSQL", "Redis", "Docker"],
+    "techStack": [
+      "Docker",
+      "Gin",
+      "Go",
+      "PostgreSQL",
+      "Redis"
+    ],
     "adminName": "Roshan Singh",
-    "linkedIn": "https://linkedin.com/in/roshan-singh-3704392b4/",
+    "linkedIn": "https://www.linkedin.com/in/roshan-singh-3704392b4",
     "mentors": [
       {
         "name": "Rehan Shaikh",
-        "linkedIn": "https://linkedin.com/in/rehanshaikh2702/"
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
       },
       {
         "name": "Joyprakash Kalita",
-        "linkedIn": "https://linkedin.com/in/joyprakashkalita/"
+        "linkedIn": "https://www.linkedin.com/in/joyprakashkalita"
       }
     ]
   },
@@ -175,43 +203,73 @@
     "projectName": "AutoDoc.ai",
     "description": "Open-source tool that generates READMEs, contributing guides, and API documentation automatically using AI-powered workflows.",
     "techStack": [
-      "Javascript",
-      "React",
+      "Gemini API",
+      "Github API",
+      "JavaScript",
       "Node.js",
       "Python",
-      "Github API",
-      "Gemini API"
+      "React"
     ],
     "adminName": "Abhrojit Sarkar",
-    "linkedIn": "https://linkedin.com/in/abhrojit-sarkar-702253374/"
+    "linkedIn": "https://www.linkedin.com/in/abhrojit-sarkar-702253374",
+    "mentors": []
   },
   {
     "owner": "smrithipiedy",
     "repo": "BallotIQ",
     "projectName": "BallotIQ",
     "description": "Interactive election learning platform with country-wise guides, AI assistance, quizzes, and modules to improve civic awareness.",
-    "techStack": ["Next.js", "TypeScript", "React", "Tailwind CSS", "Firebase"],
+    "techStack": [
+      "Firebase",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
     "adminName": "Smrithi P",
-    "linkedIn": "https://linkedin.com/in/smrithipiedy/"
+    "linkedIn": "https://www.linkedin.com/in/smrithipiedy",
+    "mentors": []
   },
   {
     "owner": "darshan2456",
-    "repo": "C-DSA-interactive-suite",
+    "repo": "C_DSA_interactive_suite",
     "projectName": "C DSA Interactive Suite",
     "description": "A pure C DSA library for learners built with manual memory management, a Makefile build system, CI pipeline, and Valgrind-verified memory safety.",
-    "techStack": ["C", "Makefile", "GDB", "Valgrind", "Linux"],
+    "techStack": [
+      "C",
+      "GDB",
+      "Linux",
+      "Makefile",
+      "Valgrind"
+    ],
     "adminName": "Darshan Parekh",
-    "linkedIn": "https://linkedin.com/in/darshan-parekh-777699351/",
+    "linkedIn": "https://www.linkedin.com/in/darshan-parekh-777699351",
     "mentors": [
       {
         "name": "Shashanka Shekhar Nayak",
-        "linkedIn": "https://linkedin.com/in/shashanka-shekhar-nayak-543a7a258/"
+        "linkedIn": "https://www.linkedin.com/in/shashanka-shekhar-nayak-543a7a258"
       },
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       }
     ]
+  },
+  {
+    "owner": "12fahed",
+    "repo": "CertiNova",
+    "projectName": "CertiNova",
+    "description": "A comprehensive platform for creating, managing, and distributing certificates in bulk while maintaining data security through advanced encryption",
+    "techStack": [
+      "Express.js",
+      "MongoDB",
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
+    "adminName": "Fahed Khan",
+    "linkedIn": "https://www.linkedin.com/in/fahed-khan-13b11025b",
+    "mentors": []
   },
   {
     "owner": "umang24-cyber",
@@ -219,26 +277,26 @@
     "projectName": "Civora AI",
     "description": "AI-powered urban safety platform that analyzes incidents and city data to detect risks and improve emergency response systems.",
     "techStack": [
-      "Python",
       "FastAPI",
-      "Tailwind CSS",
       "Machine Learning",
-      "React.js"
+      "Python",
+      "React",
+      "Tailwind CSS"
     ],
     "adminName": "Umang Arora",
-    "linkedIn": "https://linkedin.com/in/umang-arora24/",
+    "linkedIn": "https://www.linkedin.com/in/umang-arora24",
     "mentors": [
       {
         "name": "Iswar Patra",
-        "linkedIn": "https://linkedin.com/in/iswar-patra-95650a336/"
+        "linkedIn": "https://www.linkedin.com/in/iswar-patra-95650a336"
       },
       {
         "name": "Lokesh Jakhar",
-        "linkedIn": "https://linkedin.com/in/lokesh-jakhar-9b8626256/"
+        "linkedIn": "https://www.linkedin.com/in/lokesh-jakhar-9b8626256"
       },
       {
         "name": "Rehan Shaikh",
-        "linkedIn": "https://linkedin.com/in/rehanshaikh2702/"
+        "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702"
       }
     ]
   },
@@ -247,21 +305,26 @@
     "repo": "Climate-Shield",
     "projectName": "Climate Shield",
     "description": "Climate Shield is an AI-powered climate intelligence platform that provides real-time weather monitoring and climate risk analysis.",
-    "techStack": ["HTML", "CSS", "JS", "Python"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Python"
+    ],
     "adminName": "Vikrant Kumar Mehta",
-    "linkedIn": "https://linkedin.com/in/vikrant-kumar-mehta/",
+    "linkedIn": "https://www.linkedin.com/in/vikrant-kumar-mehta",
     "mentors": [
       {
         "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma/"
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       },
       {
         "name": "Harleen Kaur",
-        "linkedIn": "https://linkedin.com/in/-kaur-harleen-/"
+        "linkedIn": "https://www.linkedin.com/in/-kaur-harleen-"
       }
     ]
   },
@@ -269,18 +332,25 @@
     "owner": "imanchalsingh",
     "repo": "collegems",
     "projectName": "College Management System",
-    "description": "A full-stack College Management System built with React.js and Express.js for academic use, real-world learning, and skill enhancement.",
+    "description": "This project is designed for academic use, real-world and practical implementation, and full-stack skill enhancement through hands-on development.",
     "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
+      "Express.js",
       "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
+      "React",
+      "Tailwind CSS"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh",
+    "mentors": [
+      {
+        "name": "Sindhuja Kalagotla",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-kalagotla"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha-khare-05557b333"
+      }
+    ]
   },
   {
     "owner": "Anushka-045",
@@ -288,16 +358,17 @@
     "projectName": "DeshSafe",
     "description": "Citizen-powered disaster reporting platform for India enabling real-time crisis reporting, mapping, alerts, and emergency response.",
     "techStack": [
-      "Next.js",
-      "Tailwind CSS",
-      "Leaflet.js",
-      "Google Maps API",
       "Express.js",
+      "Firebase Auth",
+      "Google Maps API",
+      "Leaflet.js",
       "MongoDB",
-      "Firebase Auth"
+      "Next.js",
+      "Tailwind CSS"
     ],
     "adminName": "Anushka Pandey",
-    "linkedIn": "https://linkedin.com/in/anushka-pandey-b8b16b329/"
+    "linkedIn": "https://www.linkedin.com/in/anushka-pandey-b8b16b329",
+    "mentors": []
   },
   {
     "owner": "MistryVishwa",
@@ -305,14 +376,15 @@
     "projectName": "Destinix-AI-Travel",
     "description": "Destinix is an AI-powered travel planning platform helping users explore, plan itineraries, book packages, and manage trips with smart assistance.",
     "techStack": [
-      "React.js",
+      "Firebase",
+      "Firebase Authentication",
       "Gemini AI",
       "Google Places API",
-      "Firebase",
-      "Firebase Authentication"
+      "React"
     ],
     "adminName": "Vishwa Mistry",
-    "linkedIn": "https://linkedin.com/in/vishwa-mistry/"
+    "linkedIn": "https://www.linkedin.com/in/vishwa-mistry",
+    "mentors": []
   },
   {
     "owner": "ARUNNG2004",
@@ -320,38 +392,44 @@
     "projectName": "DevConnect-AI",
     "description": "DevConnect AI is a full-stack developer community platform where developers share knowledge, discuss ideas, collaborate, and learn together.",
     "techStack": [
-      "React",
-      "Next.js",
+      "AI/ML (OpenAI / Gemini)",
       "Firebase (Auth + Firestore)",
-      "AI/ML (OpenAI / Gemini)"
+      "Next.js",
+      "React"
     ],
     "adminName": "Arun N G",
-    "linkedIn": "https://linkedin.com/in/aruncse2004/"
+    "linkedIn": "https://www.linkedin.com/in/aruncse2004",
+    "mentors": []
   },
   {
     "owner": "niharika-mente",
     "repo": "DevEvent_Tracker",
     "projectName": "DevEvent_Tracker",
     "description": "Dev Event Tracker is a dedicated web platform designed for developers to discover, organize, and manage tech-related events.",
-    "techStack": ["Next.js", "React", "Tailwind css", "MongoDB"],
+    "techStack": [
+      "MongoDB",
+      "Next.js",
+      "React",
+      "Tailwind CSS"
+    ],
     "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323/",
+    "linkedIn": "https://www.linkedin.com/in/niharika-mente-473434323",
     "mentors": [
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       },
       {
         "name": "Meet Arora",
-        "linkedIn": "https://linkedin.com/in/meet-arora-603682296/"
+        "linkedIn": "https://www.linkedin.com/in/meet-arora-603682296"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       },
       {
         "name": "Tarunya Kesharwani",
-        "linkedIn": "https://linkedin.com/in/tarunyakesharwani/"
+        "linkedIn": "https://www.linkedin.com/in/tarunyakesharwani"
       }
     ]
   },
@@ -361,44 +439,56 @@
     "projectName": "DocChat",
     "description": "With DocChat, turn any documentation into an AI chat experience with source-backed answers using vector or vector-less retrieval.",
     "techStack": [
-      "React.js",
       "Express.js",
-      "PostgreSQL",
       "OpenAI SDK",
-      "Qdrant"
+      "PostgreSQL",
+      "Qdrant",
+      "React"
     ],
     "adminName": "Avishek Adhikary",
-    "linkedIn": "https://linkedin.com/in/avishekadhikary/"
+    "linkedIn": "https://www.linkedin.com/in/avishekadhikary",
+    "mentors": []
   },
   {
     "owner": "AnthropicBots",
     "repo": "E-commerce",
     "projectName": "E-commerce",
     "description": "Open-source e-commerce platform with product management, cart, authentication, orders, admin controls, and responsive UI.",
-    "techStack": ["HTML", "CSS", "Node.js", "JavaScript"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Node.js"
+    ],
     "adminName": "Bhuvansh Kataria",
-    "linkedIn": "https://linkedin.com/in/bhuvansh-kataria-041572322/"
+    "linkedIn": "https://www.linkedin.com/in/bhuvansh-kataria-041572322",
+    "mentors": []
   },
   {
     "owner": "prabhakarshukla",
     "repo": "EduFlow-AI",
     "projectName": "EduFlow AI",
     "description": "EduFlow AI is an AI-powered student assistant that combines study planning, notes, productivity tracking, and learning support in one platform.",
-    "techStack": ["React", "Typescript", "Tailwind CSS", "Next.js"],
+    "techStack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
     "adminName": "Prabhakar Shukla",
-    "linkedIn": "https://linkedin.com/in/prabhakar-shukla-90334b399/",
+    "linkedIn": "https://www.linkedin.com/in/prabhakar-shukla-90334b399",
     "mentors": [
       {
         "name": "Anay Paraswani",
-        "linkedIn": "https://linkedin.com/in/anay-paraswani/"
+        "linkedIn": "https://www.linkedin.com/in/anay-paraswani"
       },
       {
         "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma-0360a926a/"
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma-0360a926a"
       },
       {
         "name": "Saurav Kumar",
-        "linkedIn": "https://linkedin.com/in/saurav02022/"
+        "linkedIn": "https://www.linkedin.com/in/saurav02022"
       }
     ]
   },
@@ -408,39 +498,54 @@
     "projectName": "edupilot",
     "description": "Edupilot is an AI-powered study assistant helping students learn faster, understand complex concepts, and manage studies as a personal tutor.",
     "techStack": [
-      "React.js",
-      "JavaScript",
-      "HTML5",
       "Firebase Authentication",
+      "HTML",
+      "JavaScript",
+      "React",
       "Vercel"
     ],
     "adminName": "Vishwa Mistry",
-    "linkedIn": "https://linkedin.com/in/vishwa-mistry/"
+    "linkedIn": "https://www.linkedin.com/in/vishwa-mistry",
+    "mentors": []
   },
   {
     "owner": "ManabBiswas",
     "repo": "EkagraFocus",
     "projectName": "EkagraFocus",
     "description": "An offline study assistant featuring AI-assisted planning, smart scheduling, timer,goal tracking, analytics, note systems, & privacy-first insights.",
-    "techStack": ["TypeScript", "Electron", "React", "SQLite"],
+    "techStack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "TypeScript"
+    ],
     "adminName": "Manab Biswas",
-    "linkedIn": "https://linkedin.com/in/manab-biswas/"
+    "linkedIn": "https://www.linkedin.com/in/manab-biswas",
+    "mentors": []
   },
   {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
-    "description": "A MERN stack file sharing system with Cloudinary for file URLs. Built as a college practice project from the project list.",
+    "description": "A File Sharing System built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary integration for handling file URLs.",
     "techStack": [
+      "Express.js",
+      "MongoDB",
       "React",
-      "Typescript",
-      "Tailwind CSS",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
+      "Tailwind CSS"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh",
+    "mentors": [
+      {
+        "name": "Sindhuja Kalagotla",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-kalagotla"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha-khare-05557b333"
+      }
+    ]
   },
   {
     "owner": "jpdevhub",
@@ -448,40 +553,96 @@
     "projectName": "FreshScanAi",
     "description": "Real-time fish freshness assessment using Edge AI — ensure consumer safety, vendor transparency, and minimize food waste.",
     "techStack": [
-      "TypeScript",
+      "Hugging Face Spaces",
       "Python 3.12",
       "PyTorch",
       "Supabase",
-      "Hugging Face Spaces"
+      "TypeScript"
     ],
     "adminName": "Karan Singh",
-    "linkedIn": "https://linkedin.com/in/karansingh-rathorecs/"
+    "linkedIn": "https://www.linkedin.com/in/karansingh-rathorecs",
+    "mentors": []
   },
   {
     "owner": "devanshi14malhotra",
     "repo": "GitCanvas",
     "projectName": "GitCanvas",
     "description": "GitCanvas transforms GitHub contribution history into customizable visual art, helping developers showcase their coding journey creatively.",
-    "techStack": ["Python", "Streamlit", "GitHub API", "AI", "Developer Tools"],
+    "techStack": [
+      "AI",
+      "Developer Tools",
+      "GitHub API",
+      "Python",
+      "Streamlit"
+    ],
     "adminName": "Devanshi Malhotra",
-    "linkedIn": "https://linkedin.com/in/devanshi5malhotra/"
+    "linkedIn": "https://www.linkedin.com/in/devanshi5malhotra",
+    "mentors": []
   },
   {
     "owner": "aanya-srivastava",
     "repo": "goodWill",
     "projectName": "goodWill",
     "description": "goodWill connects patients with local blood donors and hospitals in real-time while rewarding donors to build a secure emergency ecosystem.",
-    "techStack": ["MongoDB", "Express.js", "React", "Node.js"],
+    "techStack": [
+      "Express.js",
+      "MongoDB",
+      "Node.js",
+      "React"
+    ],
     "adminName": "Aanya Srivastava",
-    "linkedIn": "https://linkedin.com/in/aanyasrivastava/",
+    "linkedIn": "https://www.linkedin.com/in/aanyasrivastava",
     "mentors": [
       {
         "name": "Prince Pal",
-        "linkedIn": "https://linkedin.com/in/princepal-dev/"
+        "linkedIn": "https://www.linkedin.com/in/princepal-dev"
       },
       {
         "name": "Om Roy",
-        "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
+        "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a"
+      }
+    ]
+  },
+  {
+    "owner": "Nitya-003",
+    "repo": "InnerHue",
+    "projectName": "InnerHue",
+    "description": "InnerHue is a premium canvas for your mind—turning the journey of emotional well-being into an inspiring, deeply restorative work of art.",
+    "techStack": [
+      "CSS",
+      "React",
+      "TypeScript"
+    ],
+    "adminName": "Nitya Gosain",
+    "linkedIn": "https://www.linkedin.com/in/nitya-gosain1103",
+    "mentors": []
+  },
+  {
+    "owner": "hudazaan",
+    "repo": "kuberef",
+    "projectName": "kuberef",
+    "description": "A Python-based Kubernetes CLI tool designed to audit secret references before deployment, preventing silent failures caused by missing secrets",
+    "techStack": [
+      "GitHub Actions",
+      "Kubernetes API",
+      "Poetry",
+      "Python",
+      "Typer"
+    ],
+    "adminName": "Huda Naaz",
+    "linkedIn": "https://www.linkedin.com/in/hudanaaz17",
+    "mentors": [
+      {
+        "name": "Krishna Kumar",
+        "linkedIn": "https://www.linkedin.com/in/krishna-kumar9870"
+      },
+      {
+        "name": "Sagnik Choudhury",
+        "linkedIn": "https://www.linkedin.com/in/sagnikchoudhury"
+      },
+      {
+        "name": "Roopa S",
+        "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291"
       }
     ]
   },
@@ -491,22 +652,22 @@
     "projectName": "LecturePulse",
     "description": "LecturePulse is a real-time classroom feedback platform that helps teachers gauge understanding and collect anonymous input.",
     "techStack": [
+      "framer motion",
       "React",
-      "Vite",
-      "Tailwind Css 4",
       "recharts",
-      "framer motion"
+      "Tailwind Css 4",
+      "Vite"
     ],
-    "adminName": "Rishima Rishima",
-    "linkedIn": "https://linkedin.com/in/rishima17/",
+    "adminName": "Rishima",
+    "linkedIn": "https://www.linkedin.com/in/rishima17",
     "mentors": [
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       },
       {
         "name": "Kothakapu Vishnu Kiran",
-        "linkedIn": "https://linkedin.com/in/kothakapuvishnukiran/"
+        "linkedIn": "https://www.linkedin.com/in/kothakapuvishnukiran"
       }
     ]
   },
@@ -515,17 +676,23 @@
     "repo": "localmind",
     "projectName": "LocalMind",
     "description": "Privacy-first offline AI assistant that lets users chat with PDFs, TXT and CSV files locally using Ollama, FastAPI and LangChain.",
-    "techStack": ["Python", "FastAPI", "React", "Ollama", "LangChain"],
+    "techStack": [
+      "FastAPI",
+      "LangChain",
+      "Ollama",
+      "Python",
+      "React"
+    ],
     "adminName": "Darshan G K",
-    "linkedIn": "https://linkedin.com/in/imdarshangk/",
+    "linkedIn": "https://www.linkedin.com/in/imdarshangk",
     "mentors": [
       {
         "name": "Preetham Shetty",
-        "linkedIn": "https://linkedin.com/in/preetham404/"
+        "linkedIn": "https://www.linkedin.com/in/preetham404"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       }
     ]
   },
@@ -534,17 +701,22 @@
     "repo": "Context",
     "projectName": "Memact",
     "description": "Memact lets users see, edit, and control what apps know about them, while helping apps share user-approved interests and preferences.",
-    "techStack": ["JavaScript", "Node.js", "React", "Vite"],
+    "techStack": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Vite"
+    ],
     "adminName": "Sujay Sudhir",
-    "linkedIn": "https://linkedin.com/in/sujaysudhir/",
+    "linkedIn": "https://www.linkedin.com/in/sujaysudhir",
     "mentors": [
       {
         "name": "Mohit Bareja",
-        "linkedIn": "https://linkedin.com/in/mohit-bareja-ab842422b/"
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       }
     ]
   },
@@ -553,17 +725,23 @@
     "repo": "mind-mitra",
     "projectName": "MindMitra",
     "description": "Open-source mental health platform with AI mood tracking, emotion analysis, journaling features, wellness insights, and SOS alerts.",
-    "techStack": ["Python", "FastAPI", "React", "MongoDB", "Firebase"],
+    "techStack": [
+      "FastAPI",
+      "Firebase",
+      "MongoDB",
+      "Python",
+      "React"
+    ],
     "adminName": "Gaurav Kaushik",
-    "linkedIn": "https://linkedin.com/in/gaurav-kaushik1809/",
+    "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809",
     "mentors": [
       {
         "name": "Gaurav Kaushik",
-        "linkedIn": "https://linkedin.com/in/gaurav-kaushik1809/"
+        "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809"
       },
       {
         "name": "Srijita Chakraborty",
-        "linkedIn": "https://linkedin.com/in/srijita-chakraborty-a61a88290/"
+        "linkedIn": "https://www.linkedin.com/in/srijita-chakraborty-a61a88290"
       }
     ]
   },
@@ -572,9 +750,16 @@
     "repo": "NestSpace-Interiors-UI",
     "projectName": "NestSpace-Interiors-UI",
     "description": "NestSpace is an elegant interior design website showcasing creative UI/UX, smooth animations, and responsive portfolios in a modern layout.",
-    "techStack": ["React.js", "HTML5", "CSS3", "JavaScript", "Vite"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "React",
+      "Vite"
+    ],
     "adminName": "Vishwa Mistry",
-    "linkedIn": "https://linkedin.com/in/vishwa-mistry/"
+    "linkedIn": "https://www.linkedin.com/in/vishwa-mistry",
+    "mentors": []
   },
   {
     "owner": "Puneet04-tech",
@@ -582,23 +767,30 @@
     "projectName": "Nexus Protocol Vision",
     "description": "Nexus Protocol Vision: Interactive UI managing local-first digital twins, privacy negotiations, and knowledge maps for an agentic operating layer.",
     "techStack": [
-      "React 18.2",
-      "TypeScript",
       "Framer Motion",
+      "Google Gemini API",
       "Lucide Icons",
-      "Google Gemini API"
+      "React 18.2",
+      "TypeScript"
     ],
     "adminName": "Puneet Chaturvedi",
-    "linkedIn": "https://linkedin.com/in/puneet-chaturvedi-0043a3327/"
+    "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327",
+    "mentors": []
   },
   {
     "owner": "goyaljiiiiii",
     "repo": "Open-source-contribution-Atelier",
     "projectName": "Open-source-contribution-Atelier",
     "description": "This is a full-stack learning and operations platform for teaching open source contribution from beginner to advanced levels",
-    "techStack": ["python", "Typescript", "JavaScript", "Dockerfile"],
+    "techStack": [
+      "Dockerfile",
+      "JavaScript",
+      "python",
+      "TypeScript"
+    ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh",
+    "mentors": []
   },
   {
     "owner": "sudip-mondal-2002",
@@ -606,17 +798,17 @@
     "projectName": "Opticlick",
     "description": "A Manifest V3 Chrome extension acting as an autonomous web agent using Set-of-Mark visual prompting, multimodal LLMs, and Chrome DevTools Protocol.",
     "techStack": [
-      "TypeScript",
-      "React",
       "Chrome Extension (Manifest V3)",
-      "LLM"
+      "LLM",
+      "React",
+      "TypeScript"
     ],
     "adminName": "Sudip Mondal",
-    "linkedIn": "https://linkedin.com/in/sudipmondal2002/",
+    "linkedIn": "https://www.linkedin.com/in/sudipmondal2002",
     "mentors": [
       {
         "name": "Mohit Bareja",
-        "linkedIn": "https://linkedin.com/in/mohit-bareja-ab842422b/"
+        "linkedIn": "https://www.linkedin.com/in/mohit-bareja-ab842422b"
       }
     ]
   },
@@ -626,22 +818,22 @@
     "projectName": "Parampara",
     "description": "Parampara is a full-stack web app preserving rural heritage through interactive maps, captivating audio stories, treasure hunts, and an AI chatbot.",
     "techStack": [
+      "Cloudinary",
+      "Express.js",
       "JavaScript",
       "MongoDB",
-      "Cloudinary",
-      "Node.js",
-      "Express.js"
+      "Node.js"
     ],
     "adminName": "Pritha Pal",
-    "linkedIn": "https://linkedin.com/in/pritha-pal21/",
+    "linkedIn": "https://www.linkedin.com/in/pritha-pal21",
     "mentors": [
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       }
     ]
   },
@@ -649,39 +841,51 @@
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
-    "description": "SmartPark is a full-stack MERN parking system solving urban parking issues with real-time slots, smart booking, and a responsive admin dashboard.",
+    "description": "SmartPark(Parking Slot Finder) is a full-stack MERN-based parking management system designed to solve real-world urban parking challenges.",
     "techStack": [
-      "React",
-      "Typescript",
-      "Tailwind CSS",
+      "Express.js",
       "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Express.js"
+      "React",
+      "Tailwind CSS"
     ],
     "adminName": "Anchal Singh",
-    "linkedIn": "https://linkedin.com/in/imanchalsingh/"
+    "linkedIn": "https://www.linkedin.com/in/imanchalsingh",
+    "mentors": [
+      {
+        "name": "Sindhuja Kalagotla",
+        "linkedIn": "https://www.linkedin.com/in/sindhuja-kalagotla"
+      },
+      {
+        "name": "Pratiksha Khare",
+        "linkedIn": "https://www.linkedin.com/in/pratiksha-khare-05557b333"
+      }
+    ]
   },
   {
     "owner": "ionfwsrijan",
     "repo": "PatchPilot",
     "projectName": "PatchPilot",
     "description": "Automated code security triage with SAST, dependency and secret scanning, auto-fixes, verification, and compliance evidence generation.",
-    "techStack": ["Python", "React", "Typescript", "Tailwind CSS"],
+    "techStack": [
+      "Python",
+      "React",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
     "adminName": "Srijan Jaiswal",
-    "linkedIn": "https://linkedin.com/in/srijancodes/",
+    "linkedIn": "https://www.linkedin.com/in/srijancodes",
     "mentors": [
       {
         "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma-0360a926a/"
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma-0360a926a"
       },
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       },
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       }
     ]
   },
@@ -690,34 +894,44 @@
     "repo": "pdfToPng",
     "projectName": "pdfToPng",
     "description": "Multi-functional file processing tool supporting PDF to PNG, image to WEBP or JPG, and other conversions while ensuring complete data privacy.",
-    "techStack": ["Python", "Flask", "React"],
+    "techStack": [
+      "Flask",
+      "Python",
+      "React"
+    ],
     "adminName": "Durgeshwar Kumar Shaw",
-    "linkedIn": "https://linkedin.com/in/durgeshwar/"
+    "linkedIn": "https://www.linkedin.com/in/durgeshwar",
+    "mentors": []
   },
   {
     "owner": "niharika-mente",
     "repo": "Product-Store",
     "projectName": "Product-Store",
     "description": "Product Store is a full-stack e-commerce web application designed to manage and display consumer products through a sleek, responsive interface.",
-    "techStack": ["React.js", "Node.js", "Express.js", "MongoDB"],
+    "techStack": [
+      "Express.js",
+      "MongoDB",
+      "Node.js",
+      "React"
+    ],
     "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323/",
+    "linkedIn": "https://www.linkedin.com/in/niharika-mente-473434323",
     "mentors": [
       {
         "name": "Om Roy",
-        "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
+        "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a"
       },
       {
         "name": "Aamod Kumar",
-        "linkedIn": "https://linkedin.com/in/aamod-kumar/"
+        "linkedIn": "https://www.linkedin.com/in/aamod-kumar"
       },
       {
         "name": "Harleen Kaur",
-        "linkedIn": "https://linkedin.com/in/-kaur-harleen-/"
+        "linkedIn": "https://www.linkedin.com/in/-kaur-harleen-"
       },
       {
         "name": "Rishima",
-        "linkedIn": "https://linkedin.com/in/rishima17/"
+        "linkedIn": "https://www.linkedin.com/in/rishima17"
       }
     ]
   },
@@ -726,17 +940,21 @@
     "repo": "Project-Toolsuite",
     "projectName": "Project Toolsuite",
     "description": "Project Toolsuite offers fast, privacy-first, no-login browser tools for file handling, development, graphics, security, and productivity tasks.",
-    "techStack": ["HTML", "CSS", "JavaScript"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
     "adminName": "Shubham Chaudhari",
-    "linkedIn": "https://linkedin.com/in/shubhampchaudhari/",
+    "linkedIn": "https://www.linkedin.com/in/shubhampchaudhari",
     "mentors": [
       {
         "name": "Iswar Patra",
-        "linkedIn": "https://linkedin.com/in/iswar-patra-95650a336/"
+        "linkedIn": "https://www.linkedin.com/in/iswar-patra-95650a336"
       },
       {
         "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
       }
     ]
   },
@@ -745,33 +963,63 @@
     "repo": "PromptPilot-AI",
     "projectName": "PromptPilot-AI",
     "description": "AI-powered prompt enhancement platform that transforms basic prompts into structured, context-aware instructions for better responses.",
-    "techStack": ["React", "Vite", "JavaScript", "CSS", "Background Script"],
+    "techStack": [
+      "Background Script",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Vite"
+    ],
     "adminName": "Bindu Runwal",
-    "linkedIn": "https://linkedin.com/in/bindu-choudhary/"
+    "linkedIn": "https://www.linkedin.com/in/bindu-choudhary",
+    "mentors": []
   },
   {
     "owner": "AnthropicBots",
     "repo": "ptet-web",
     "projectName": "ptet-web",
     "description": "Open-source PTET education platform offering resources, notices, forms, updates, and a responsive experience for students.",
-    "techStack": ["HTML", "CSS", "JavaScript", "MySQL", "React"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "MySQL",
+      "React"
+    ],
     "adminName": "Mohit Yadav",
-    "linkedIn": "https://linkedin.com/in/mohit-yadav-6b2319305/"
+    "linkedIn": "https://www.linkedin.com/in/mohit-yadav-6b2319305",
+    "mentors": []
   },
   {
     "owner": "ExperQuick",
     "repo": "PyLabFlow",
     "projectName": "PyLabFlow",
     "description": "Offline-first Python framework for reproducible computational experiments, workflow automation, and research project management.",
-    "techStack": ["Python"],
+    "techStack": [
+      "Python"
+    ],
     "adminName": "Bbek-anand",
-    "linkedIn": "https://linkedin.com/in/bbek-anand/",
+    "linkedIn": "https://www.linkedin.com/in/bbek-anand",
     "mentors": [
       {
         "name": "Anjan B",
-        "linkedIn": "https://linkedin.com/in/anjan-b-35a884295/"
+        "linkedIn": "https://www.linkedin.com/in/anjan-b-35a884295"
       }
     ]
+  },
+  {
+    "owner": "Mayur-Pagote",
+    "repo": "README_Design_Kit",
+    "projectName": "README_Design_Kit",
+    "description": "README Design Kit is your all-in-one solution for creating professional, accessible, and visually appealing documentation.",
+    "techStack": [
+      "CSS",
+      "TypeScript",
+      "Vercel"
+    ],
+    "adminName": "Mayur Pagote",
+    "linkedIn": "https://www.linkedin.com/in/mayurpagote",
+    "mentors": []
   },
   {
     "owner": "Sushma-1706",
@@ -779,30 +1027,30 @@
     "projectName": "RepoRefine",
     "description": "AI-powered GitHub audit platform that analyzes repositories, profiles, and contributions to provide actionable career-growth insights.",
     "techStack": [
+      "GitHub GraphQL API",
       "Next.js",
       "React",
-      "TypeScript",
       "Tailwind CSS",
-      "GitHub GraphQL API"
+      "TypeScript"
     ],
     "adminName": "Damacharla Sushma",
-    "linkedIn": "https://linkedin.com/in/sushma-damacharla/",
+    "linkedIn": "https://www.linkedin.com/in/sushma-damacharla",
     "mentors": [
       {
         "name": "Aamod Kumar",
-        "linkedIn": "https://linkedin.com/in/aamod-kumar/"
+        "linkedIn": "https://www.linkedin.com/in/aamod-kumar"
       },
       {
         "name": "Jacinth Mahanta",
-        "linkedIn": "https://linkedin.com/in/gitsentinel/"
+        "linkedIn": "https://www.linkedin.com/in/gitsentinel"
       },
       {
         "name": "Meet Arora",
-        "linkedIn": "https://linkedin.com/in/meet-arora-603682296/"
+        "linkedIn": "https://www.linkedin.com/in/meet-arora-603682296"
       },
       {
         "name": "Om Roy",
-        "linkedIn": "https://linkedin.com/in/om-roy-3b809628a/"
+        "linkedIn": "https://www.linkedin.com/in/om-roy-3b809628a"
       }
     ]
   },
@@ -811,9 +1059,14 @@
     "repo": "SafeHaven",
     "projectName": "SafeHaven",
     "description": "Crowdsourced disaster management platform designed to help individuals and communities stay informed, prepared, and connected during emergencies.",
-    "techStack": ["HTML", "CSS", "JavaScript"],
+    "techStack": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
     "adminName": "Vaibhavi Srivastava",
-    "linkedIn": "https://linkedin.com/in/vaibhavi-srivastava26/"
+    "linkedIn": "https://www.linkedin.com/in/vaibhavi-srivastava26",
+    "mentors": []
   },
   {
     "owner": "Sitaram8472",
@@ -821,31 +1074,37 @@
     "projectName": "School_Website",
     "description": "EduStream is a school portal with real-time notices, resource sharing, and an AI assistant that connects students, teachers, and parents.",
     "techStack": [
-      "React",
+      "Express.js",
+      "Machine Learning",
       "MongoDB",
       "Node.js",
-      "Express.js",
-      "Machine Learning"
+      "React"
     ],
     "adminName": "Sitaram Sahu",
-    "linkedIn": "https://linkedin.com/in/sitaram-sahu/"
+    "linkedIn": "https://www.linkedin.com/in/sitaram-sahu",
+    "mentors": []
   },
   {
     "owner": "Userunknown84",
     "repo": "Spam-Detection-System",
     "projectName": "Spam Detection System",
     "description": "Spam Detection System is a full-stack ML application that detects spam, smishing, and offensive messages on web and mobile.",
-    "techStack": ["Python", "Reactjs", "Nodejs", "ReactNative"],
+    "techStack": [
+      "Node.js",
+      "Python",
+      "React",
+      "React Native"
+    ],
     "adminName": "Aditya Sharma",
-    "linkedIn": "https://linkedin.com/in/aditya-sharma-340253236/",
+    "linkedIn": "https://www.linkedin.com/in/aditya-sharma-340253236",
     "mentors": [
       {
         "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma/"
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
       },
       {
         "name": "Shashanka Shekhar Nayak",
-        "linkedIn": "https://linkedin.com/in/shashanka-shekhar-nayak-543a7a258/"
+        "linkedIn": "https://www.linkedin.com/in/shashanka-shekhar-nayak-543a7a258"
       }
     ]
   },
@@ -854,36 +1113,63 @@
     "repo": "ss_ai",
     "projectName": "ss_ai",
     "description": "AI-powered platform screenshot analysis system leveraging OCR, Vision AI, metadata enrichment, tagging, and scalable workers.",
-    "techStack": ["Typescript", "Nextjs", "React Native", "AI", "API"],
+    "techStack": [
+      "AI",
+      "API",
+      "Next.js",
+      "React Native",
+      "TypeScript"
+    ],
     "adminName": "Madhav Majumdar",
-    "linkedIn": "https://linkedin.com/in/madhav-majumdar9099/",
+    "linkedIn": "https://www.linkedin.com/in/madhav-majumdar9099",
     "mentors": [
       {
         "name": "Advait Kulkarni",
-        "linkedIn": "https://linkedin.com/in/advaitkulkarni006/"
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006"
       },
       {
         "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
       }
     ]
+  },
+  {
+    "owner": "anandsundaramoorthysa",
+    "repo": "System-Trace",
+    "projectName": "System Trace",
+    "description": "System Trace is a free, open-source, privacy-first screen-time tracker for Windows, macOS, and Linux. Your data never leaves your device.",
+    "techStack": [
+      "React",
+      "Rust",
+      "Tailwind CSS",
+      "Tauri",
+      "TypeScript"
+    ],
+    "adminName": "Anand Sundaramoorthy SA",
+    "linkedIn": "https://www.linkedin.com/in/anandsundaramoorthysa",
+    "mentors": []
   },
   {
     "owner": "itzzavdhesh",
     "repo": "TabTwin",
     "projectName": "TabTwin",
     "description": "Real-time browser tab collaboration with ghost cursors, annotations, and an AI agent that can act inside the host's Chrome tabs.",
-    "techStack": ["react", "Tailwind CSS", "Vite", "Node.js"],
+    "techStack": [
+      "Node.js",
+      "React",
+      "Tailwind CSS",
+      "Vite"
+    ],
     "adminName": "Avdhesh Kumar Dadhich",
-    "linkedIn": "https://linkedin.com/in/aavdhesh/",
+    "linkedIn": "https://www.linkedin.com/in/aavdhesh",
     "mentors": [
       {
         "name": "Rishabh Kumar",
-        "linkedIn": "https://linkedin.com/in/rrishabk/"
+        "linkedIn": "https://www.linkedin.com/in/rrishabk"
       },
       {
         "name": "Joyprakash Kalita",
-        "linkedIn": "https://linkedin.com/in/joyprakashkalita/"
+        "linkedIn": "https://www.linkedin.com/in/joyprakashkalita"
       }
     ]
   },
@@ -892,34 +1178,46 @@
     "repo": "TENET-AI",
     "projectName": "TENET AI",
     "description": "AI-powered cybersecurity platform that detects threats, analyzes risks, and automates real-time response through scalable microservices.",
-    "techStack": ["Python", "FastAPI", "React", "Docker", "Kubernetes"],
+    "techStack": [
+      "Docker",
+      "FastAPI",
+      "Kubernetes",
+      "Python",
+      "React"
+    ],
     "adminName": "Savio D'Souza",
-    "linkedIn": "https://linkedin.com/in/savio-d-souza-0a1810349/"
+    "linkedIn": "https://www.linkedin.com/in/savio-d-souza-0a1810349",
+    "mentors": []
   },
   {
     "owner": "niharika-mente",
     "repo": "ThinkBoard",
     "projectName": "ThinkBoard",
     "description": "ThinkBoard is a full-stack notes and idea management platform that helps users create, organize, and track information efficiently.",
-    "techStack": ["JavaScript", "Tailwind CSS", "Node.js", "MongoDB"],
+    "techStack": [
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "Tailwind CSS"
+    ],
     "adminName": "Niharika Mente",
-    "linkedIn": "https://linkedin.com/in/niharika-mente-473434323/",
+    "linkedIn": "https://www.linkedin.com/in/niharika-mente-473434323",
     "mentors": [
       {
         "name": "Nirakar Patel",
-        "linkedIn": "https://linkedin.com/in/nirakarpatel/"
+        "linkedIn": "https://www.linkedin.com/in/nirakarpatel"
       },
       {
         "name": "Roopa S",
-        "linkedIn": "https://linkedin.com/in/roopa-s-aa9777291/"
+        "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291"
       },
       {
         "name": "Aditya Singh",
-        "linkedIn": "https://linkedin.com/in/adityas72/"
+        "linkedIn": "https://www.linkedin.com/in/adityas72"
       },
       {
         "name": "Sparsh Mishra",
-        "linkedIn": "https://linkedin.com/in/sparshm8/"
+        "linkedIn": "https://www.linkedin.com/in/sparshm8"
       }
     ]
   },
@@ -928,9 +1226,16 @@
     "repo": "Traceon",
     "projectName": "Traceon",
     "description": "AI-powered platform that maps codebases into interactive dependency graphs and analyzes developer capabilities through LLM insights",
-    "techStack": ["React", "Node.js", "Next.js", "Typescript", "MongoDb"],
+    "techStack": [
+      "MongoDB",
+      "Next.js",
+      "Node.js",
+      "React",
+      "TypeScript"
+    ],
     "adminName": "Rishabh Tripathi",
-    "linkedIn": "https://linkedin.com/in/rishabh-tripathi-728a77317/"
+    "linkedIn": "https://www.linkedin.com/in/rishabh-tripathi-728a77317",
+    "mentors": []
   },
   {
     "owner": "jai3546",
@@ -938,26 +1243,26 @@
     "projectName": "VidyAi++",
     "description": "Vidyai is an open-source, AI-driven educational platform that tracks student focus and stress to deliver adaptive, gamified learning.",
     "techStack": [
-      "Next.js",
+      "FaceAPI.js",
       "Gemini API",
-      "Typescript.js",
-      "Tailwind.css",
-      "FaceAPI.js"
+      "Next.js",
+      "Tailwind CSS",
+      "Typescript.js"
     ],
     "adminName": "Tatikonda Jaideep",
-    "linkedIn": "https://linkedin.com/in/jaideep-tatikonda/",
+    "linkedIn": "https://www.linkedin.com/in/jaideep-tatikonda",
     "mentors": [
       {
         "name": "Saurav Kumar",
-        "linkedIn": "https://linkedin.com/in/saurav02022/"
+        "linkedIn": "https://www.linkedin.com/in/saurav02022"
       },
       {
         "name": "Mohit Aggarwal",
-        "linkedIn": "https://linkedin.com/in/mohitaggarwal551/"
+        "linkedIn": "https://www.linkedin.com/in/mohitaggarwal551"
       },
       {
         "name": "Aditya Singh",
-        "linkedIn": "https://linkedin.com/in/adityas72/"
+        "linkedIn": "https://www.linkedin.com/in/adityas72"
       }
     ]
   },
@@ -966,30 +1271,39 @@
     "repo": "vodka",
     "projectName": "Vodka Framework",
     "description": "Developer-friendly Go full-stack framework for building fast, scalable, and modern web applications with robust tooling.",
-    "techStack": ["Go", "NextJS"],
+    "techStack": [
+      "Go",
+      "Next.js"
+    ],
     "adminName": "Devanshu Tripathi",
-    "linkedIn": "https://linkedin.com/in/devanshutripathi/"
+    "linkedIn": "https://www.linkedin.com/in/devanshutripathi",
+    "mentors": []
   },
   {
     "owner": "itzzavdhesh",
     "repo": "VoiceForge",
     "projectName": "VoiceForge",
     "description": "VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.",
-    "techStack": ["react", "Tailwind CSS", "Vite", "Node.js"],
+    "techStack": [
+      "Node.js",
+      "React",
+      "Tailwind CSS",
+      "Vite"
+    ],
     "adminName": "Avdhesh Kumar Dadhich",
-    "linkedIn": "https://linkedin.com/in/aavdhesh/",
+    "linkedIn": "https://www.linkedin.com/in/aavdhesh",
     "mentors": [
       {
         "name": "Rushikesh Kusuma",
-        "linkedIn": "https://linkedin.com/in/rushikesh-kusuma/"
+        "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma"
       },
       {
         "name": "Joyprakash Kalita",
-        "linkedIn": "https://linkedin.com/in/joyprakashkalita/"
+        "linkedIn": "https://www.linkedin.com/in/joyprakashkalita"
       },
       {
         "name": "Rishabh Kumar",
-        "linkedIn": "https://linkedin.com/in/rrishabk/"
+        "linkedIn": "https://www.linkedin.com/in/rrishabk"
       }
     ]
   },
@@ -998,9 +1312,15 @@
     "repo": "Waggle-mcp",
     "projectName": "Waggle",
     "description": "Waggle MCP gives MCP-compatible AI agents local graph-backed memory for decisions, preferences, contradictions, and project context.",
-    "techStack": ["Python 3.11+", "MCP", "SQLite", "Neo4j"],
+    "techStack": [
+      "MCP",
+      "Neo4j",
+      "Python 3.11+",
+      "SQLite"
+    ],
     "adminName": "Abhigyan Shekhar",
-    "linkedIn": "https://linkedin.com/in/abhigyan-shekhar-4b3b8b344/"
+    "linkedIn": "https://www.linkedin.com/in/abhigyan-shekhar-4b3b8b344",
+    "mentors": []
   },
   {
     "owner": "harshika53",
@@ -1008,19 +1328,35 @@
     "projectName": "Webable",
     "description": "Open-source accessibility analysis tool that scans websites, detects WCAG issues, and helps developers build inclusive experiences.",
     "techStack": [
-      "React",
-      "Typescript",
       "Flask(Python)",
+      "Lighthouse",
       "MongoDB",
-      "Lighthouse"
+      "React",
+      "TypeScript"
     ],
     "adminName": "Harshika Rathod",
-    "linkedIn": "https://linkedin.com/in/harshika-rathod/",
+    "linkedIn": "https://www.linkedin.com/in/harshika-rathod",
     "mentors": [
       {
         "name": "Satyam Pandey",
-        "linkedIn": "https://linkedin.com/in/satyam-pandey-0b246432a/"
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a"
       }
     ]
+  },
+  {
+    "owner": "Puneet04-tech",
+    "repo": "1-1-mentor-session-booking-app",
+    "projectName": "1-1-mentor-session-booking-app",
+    "description": "An interactive full-stack app for real-time mentorship, featuring video calls, instant messaging, and CRDT-powered collaborative code editing.",
+    "techStack": [
+      "CRDT",
+      "Express.js",
+      "Next.js 14",
+      "Socket.io/WEbRTC",
+      "Yjs"
+    ],
+    "adminName": "Puneet Chaturvedi",
+    "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327",
+    "mentors": []
   }
 ]
