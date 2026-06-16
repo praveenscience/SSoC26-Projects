@@ -1358,5 +1358,30 @@
     "adminName": "Puneet Chaturvedi",
     "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327",
     "mentors": []
-  }
+  },
+  {
+  "owner": "Coder-s-OG-s",
+  "repo": "MergeShip",
+  "projectName": "MergeShip",
+  "description": "Gamified open-source bridge: contributors swipe for issues to earn XP & badges; maintainers use an AI Command Center to boost PR velocity.",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "docker",
+    "tailwind css",
+    "PostgreSQL"
+  ],
+  "adminName": "Ayush Patel",
+  "linkedIn": "https://www.linkedin.com/in/ayush-patel-15429b359",
+  "mentors": [
+    {
+      "name": "Monika Jakhar",
+      "linkedIn": "https://www.linkedin.com/in/monika-jakhar-186a04361"
+    },
+    {
+      "name": "Soumya Sagar",
+      "linkedIn": "https://www.linkedin.com/in/soumya-sagar-44812a371"
+    }
+  ]
+}
 ]
