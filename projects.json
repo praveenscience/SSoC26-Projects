@@ -524,6 +524,25 @@
     "mentors": []
   },
   {
+    "owner": "MistryVishwa",
+    "repo": "Destinix-AI-Travel",
+    "projectName": "Destinix-AI-Travel",
+    "description": "Destinix is an AI-powered travel planning platform helping users explore, plan itineraries, book packages, and manage trips with smart assistance.",
+    "techStack": [
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Gemini AI",
+      "Google Places API",
+      "Firebase",
+      "Firebase Authentication"
+    ],
+    "adminName": "VISHWA MISTRY",
+    "linkedIn": "https://www.linkedin.com/in/vishwa-mistry/"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
