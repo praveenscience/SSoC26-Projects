@@ -524,6 +524,38 @@
     "mentors": []
   },
   {
+    "owner": "niharika-mente",
+    "repo": "DevEvent_Tracker",
+    "projectName": "DevEvent_Tracker",
+    "description": "Dev Event Tracker is a dedicated web platform designed for developers to discover, organize, and manage tech-related events.",
+    "techStack": [
+      "Next.js",
+      "React",
+      "Tailwind css",
+      "MongoDB"
+    ],
+      "adminName": "Niharika Mente",
+      "linkedIn": "https://linkedin.com/in/niharika-mente-473434323",
+      "mentors": [
+      {
+        "name": "Satyam Pandey",
+        "linkedIn": "https://www.linkedin.com/in/satyam-pandey-0b246432a/"
+      },
+      {
+        "name": "Meet Arora",
+        "linkedIn": "https://www.linkedin.com/in/meet-arora-603682296"
+      },
+      {
+        "name": "Advait Kulkarni",
+        "linkedIn": "https://www.linkedin.com/in/advaitkulkarni006/"
+      },
+      {
+        "name": "Tarunya Kesharwani",
+        "linkedIn": "https://www.linkedin.com/in/tarunyakesharwani/"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
