@@ -78,6 +78,28 @@
       }
     ]
   },
+   {
+  "owner": "sreerevanth",
+  "repo": "AgentWatch",
+  "projectName": "AgentWatch",
+  "description": "Real-time observability and safety platform for AI agents that monitors reasoning traces, detects failures, and enforces operational guardrails.",
+  "techStack": [
+    "Python",
+    "TypeScript",
+    "Next.js",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "adminName": "S Sreerevanth",
+  "linkedIn": "https://www.linkedin.com/in/sree-revanth/",
+  "mentors": [
+    {
+      "name": "Rehan Shaikh",
+      "linkedIn": "https://www.linkedin.com/in/rehanshaikh2702/"
+    }
+  ]
+},
   {
     "owner": "Jyotibrat",
     "repo": "AI-Flow",
