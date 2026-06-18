@@ -1359,4 +1359,29 @@
     "linkedIn": "https://www.linkedin.com/in/puneet-chaturvedi-0043a3327",
     "mentors": []
   }
+  ,
+  {
+    "owner": "1809gaurav",
+    "repo": "mind-mitra",
+    "projectName": "MindMitra",
+    "description": "Open-source mental health platform with AI-powered mood tracking, emotion analysis, journaling and SOS emergency alerts.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "MongoDB",
+      "Firebase"
+    ],
+    "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809",
+    "mentors": [
+      {
+        "name": "Gaurav Kaushik",
+        "linkedIn": "https://www.linkedin.com/in/gaurav-kaushik1809"
+      },
+      {
+        "name": "Srijita Chakraborty",
+        "linkedIn": "https://www.linkedin.com/in/srijita-chakraborty-a61a88290"
+      }
+    ]
+  }
 ]
