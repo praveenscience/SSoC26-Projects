@@ -524,6 +524,22 @@
     "mentors": []
   },
   {
+    "owner": "MistryVishwa",
+    "repo": "edupilot-1",
+    "projectName": "edupilot",
+    "description": "Edupilot is an AI-powered study assistant helping students learn faster, understand complex concepts, and manage studies as a personal tutor.",
+    "techStack": [
+      "React.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Firebase Authentication",
+      "Vercel"
+    ],
+    "adminName": "Vishwa Mistry",
+    "linkedIn": "https://www.linkedin.com/in/vishwa-mistry"
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "File-Sharing-System",
     "projectName": "File Sharing System",
