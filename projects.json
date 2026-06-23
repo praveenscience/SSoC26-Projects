@@ -838,6 +838,35 @@
     ]
   },
   {
+    "owner": "hudazaan",
+    "repo": "kuberef",
+    "projectName": "kuberef",
+    "description": "A Python-based Kubernetes CLI tool designed to audit secret references before deployment, preventing silent failures caused by missing secrets",
+    "techStack": [
+      "Python",
+      "Kubernetes API",
+      "Typer",
+      "Poetry",
+      "GitHub Actions"
+    ],
+    "adminName": "Huda Naaz",
+    "linkedIn": "https://www.linkedin.com/in/hudanaaz17/",
+    "mentors": [
+      {
+        "name": "Krishna Kumar",
+        "linkedIn": "https://www.linkedin.com/in/krishna-kumar9870/"
+      },
+      {
+        "name": "Sagnik Choudhury",
+        "linkedIn": "https://www.linkedin.com/in/sagnikchoudhury/"
+      },
+      {
+        "name": "Roopa S",
+        "linkedIn": "https://www.linkedin.com/in/roopa-s-aa9777291"
+      }
+    ]
+  },
+  {
     "owner": "imanchalsingh",
     "repo": "parkfinder",
     "projectName": "Parking Slot Management System",
